@@ -1,0 +1,63 @@
+Vpn Nr. 	SsID	Datum	Eintrittszeit	Austrittszeit	Verweildauer	Dauer in min	Geschlecht	Alter ca.	Mit wem (kurz)	mit wem in der Ausstellung	Bemerkungen	N Gelesen	An Exp gelesen (ohne Dopplungen)	Zeit Gelesen	Zeit in Sec
+JW01	10	Samstag, 24. Juli 2021	13:08:00	13:16:38	0:08	08	männlich	10-14	Familie	mit Eltern und Freunden			0		0
+JW02	12	Samstag, 24. Juli 2021	13:54:59	14:05:59	0:11	11	männlich	10-14	Familie	mit Vater			0		0
+JW03	11	Samstag, 24. Juli 2021	14:55:20	15:19:39	0:24	24	weiblich 	10-14	Familie	mit Eltern 			0		0
+JW04	13	Sonntag, 25. Juli 2021	14:30:56	15:20:28	0:49	49	weiblich 	10-14	Familie	mit Eltern 		2	2	00:00:57	57
+JW05	41	Sonntag, 25. Juli 2021	12:57:42	14:09:40	1:11	71	weiblich 	31-60	Familie	mit Mann und Kind		19	17	00:17:08	1028
+JW06	51	Sonntag, 25. Juli 2021	15:24:17	15:53:54	0:29	29	weiblich 	ab 61	mit Partner:in / Freund:i	mit Partner 		11	10	00:07:14	434
+JW07	53	Mittwoch, 28. Juli 2021	11:21:52	12:07:50	0:45	45	weiblich 	ab 61	mit Partner:in / Freund:i	mit Partner 		11	11	00:07:39	459
+JW08	43	Mittwoch, 28. Juli 2021	13:03:54	13:46:04	0:42	42	weiblich 	31-60	mit Partner:in / Freund:i	mit Partner 		7	7	00:04:08	248
+JW09	14	Donnerstag, 29. Juli 2021	11:00:03	11:43:41	0:43	43	männlich	10-14	Familie	mit Vater		1	1	00:00:23	23
+JW10	21	Donnerstag, 29. Juli 2021	12:27:30	13:00:45	0:33	33	weiblich 	15-19	mit Partner:in / Freund:i	mit Freund		11	11	00:07:24	444
+JW11	55	Donnerstag, 29. Juli 2021	13:21:57	14:04:15	0:42	42	weiblich 	ab 61	Familie	mit Mann und Enkelkind 		10	10	00:10:09	609
+JW12	30	Donnerstag, 29. Juli 2021	14:24:21	14:40:21	0:16	16	männlich	20-30	mit Partner:in / Freund:i	mit Freundin		1	1	00:00:21	21
+JW13	45	Samstag, 31. Juli 2021	11:47:07	12:39:24	0:52	52	weiblich 	31-60	Familie	mit Kindern und Mann		15	14	00:16:24	984
+JW14	40	Samstag, 31. Juli 2021	13:10:17	13:52:12	0:41	41	männlich	31-60	Familie	mit Tochter		7	6	00:06:03	363
+JW15	15	Samstag, 31. Juli 2021	14:14:41 	14:23:56	0:09	09	weiblich 	10-14	Familie	mit Bruder und Eltern			0		0
+JW16	17	Samstag, 31. Juli 2021	14:45:40	14:56:57	0:11	11	weiblich 	10-14	mit Partner:in / Freund:i	mit Freundin			0		0
+JW17	0	Sonntag, 1. August 2021	11:47:35	11:52:51	0:05	05	männlich	3-9	Familie	mit Eltern und Schwester 		1	1	00:00:15	15
+JW18	47	Sonntag, 1. August 2021	12:36:16	13:15:55	0:39	39	weiblich 	31-60	mit Partner:in / Freund:i	mit Mann		18	15	00:09:25	565
+JW19	1	Sonntag, 1. August 2021	13:21:40	13:53:06	0:31	31	weiblich 	3-9	Familie	mit Eltern und Schwester 		1	1	00:00:13	13
+JW20	2	Montag, 2. August 2021	10:42:28	10:58:00	0:15	15	männlich	3-9	Familie	mit Eltern un Schwester		1	1	00:00:15	15
+JW21	57	Montag, 2. August 2021	11:02:52	11:36:27	0:33	33	weiblich 	ab 61	Familie	mit Tochter und Enkeln 		13	12	00:04:34	274
+JW22	49	Montag, 2. August 2021	12:03:15	12:42:52	0:39	39	weiblich 	31-60	mit Partner:in / Freund:i	mit Freundinnen		11	9	00:05:41	341
+JW23	42	Montag, 2. August 2021	14:25:43	14:53:39	0:27	27	männlich	31-60	Familie	mit Frau und Kind 		8	8	00:10:21	621
+JW24	44	Montag, 2. August 2021	15:03:53	15:36:17	0:32	32	männlich	31-60	Familie	mit Tochter		8	8	00:02:50	170
+JW25	50	Mittwoch, 4. August 2021	09:52:55	10:04:36	0:11	11	männlich	ab 61	allein	allein	Ab Station 7a gesperrt 	9	9	00:03:52	232
+JW26	4	Mittwoch, 4. August 2021	10:19:31	10:56:34	0:37	37	männlich	3-9	Gruppe	Kindergartengruppe	Bei Station 7a neuer Boden vorhanden 		0		0
+JW27	46	Mittwoch, 4. August 2021	11:10:46	12:37:49	1:27	87	männlich	31-60	Familie	mit Tochter und Frau 		21	18	00:28:00	1680
+JW28	19	Mittwoch, 4. August 2021	14:17:13	14:40:46	0:23	23	weiblich 	10-14	Familie	mit Bruder und Oma 		2	2	00:00:39	39
+JW29	48	Donnerstag, 5. August 2021	10:49:23	11:25:34	0:36	36	männlich	31-60	Familie	mit Frau und Sohn 		9	7	00:03:51	231
+JW30	20	Donnerstag, 5. August 2021	11:28:34	11:41:36	0:13	13	männlich	15-19	Familie	mit Großeltern und Bruder 		1	1	00:00:24	24
+JW31	22	Donnerstag, 5. August 2021	11:52:23	12:20:50	0:28	28	männlich	15-19	Familie	mit Großeltern und Bruder 		3	3	00:01:08	68
+JW32	52	Donnerstag, 5. August 2021	13:25:52	13:54:50	0:28	28	männlich	ab 61	Familie	Mit Frau, Tochter, Schwiegersohn und Enkelin		11	11	00:08:47	527
+JW33	3	Donnerstag, 5. August 2021	14:12:59	14:21:58	0:08	08	weiblich 	3-9	Familie	mit Eltern 			0		0
+JW34	5	Donnerstag, 5. August 2021	14:48:09	15:54:48	1:06	66	weiblich 	3-9	Familie	mit Eltern und Freundinnen + Eltern 	Geht von 15.13 - 15.17 Uhr aufs Klo 	5	5	00:02:22	142
+JW35	31	Samstag, 7. August 2021	11:16:43	11:56:00	0:39	39	weiblich 	20-30	Familie	mit Freundin und Kindern 		3	3	00:01:02	62
+JW36	32	Samstag, 7. August 2021	12:01:47	12:13:54	0:12	12	männlich	20-30	Gruppe	mit Pfandfinder Gruppe		5	4	00:01:57	117
+JW37	23	Samstag, 7. August 2021	12:35:04	13:09:41	0:34	34	weiblich 	15-19	Familie	mit Eltern, Großeltern und Geschwistern 		12	12	00:10:07	607
+JW38	54	Donnerstag, 19. August 2021	11:56:26	13:02:37	1:06	66	männlich	ab 61	mit Partner:in / Freund:i	mit Frau		18	17	00:29:36	1776
+JW39	33	Donnerstag, 19. August 2021	13:28:21	13:39:35	0:11	11	weiblich 	20-30	mit Partner:in / Freund:i	mit Freund 		2	2	00:00:42	42
+JW40	34	Donnerstag, 19. August 2021	13:50:35	13:55:09	0:04	04	männlich	20-30	Familie	mit Vater 		2	2	00:00:17	17
+JW41	24	Freitag, 20. August 2021	10:59:02	11:42:09	0:43	43	männlich	15-19	Familie	mit Eltern und Schwester 		22	18	00:14:09	849
+JW42	16	Freitag, 20. August 2021	11:57:01	12:08:25	0:11	11	männlich	10-14	Familie	mit Mutter und Bruder 		3	3	00:00:39	39
+JW43	18	Freitag, 20. August 2021	12:44:59	13:00:07	0:15	15	männlich	10-14	Familie	mit Eltern und Schwester			0		0
+JW44	6	Freitag, 27. August 2021	09:48:38	10:02:28	0:13	13	männlich	3-9	Familie	mit Eltern 		1	1	00:00:27	27
+JW45	8	Freitag, 27. August 2021	10:34:52	11:30:25	0:55	55	männlich	3-9	Familie	mit Mutter, Oma und Schwester 			0		0
+JW46	7	Freitag, 27. August 2021	12:52:06	13:32:51	0:40	40	weiblich 	3-9	Familie	mit Mutter und Geschwistern und anderer Familie mit Mutter und Kindern 			0		0
+JW47	25	Freitag, 27. August 2021	13:52:06	14:16:44	0:24	24	weiblich 	15-19	Familie	mit Großeltern und Bruder 		5	4	00:01:36	96
+JW48 	9	Montag, 30. August 2021	10:58:07	11:07:09	0:09	09	weiblich 	3-9	Familie	mit Mutter 		4	4	00:00:48	48
+JW49	59	Montag, 30. August 2021	12:41:41	13:33:19	0:51	51	weiblich 	ab 61	Familie	mit Tochter und Enkel 		12	9	00:12:22	742
+JW50	26	Montag, 30. August 2021	15:16:41	15:44:31	0:27	27	männlich	15-19	Familie	mit Eltern und Geschwistern 		3	3	00:00:34	34
+JW51	35	Mittwoch, 1. September 2021	10:43:36	11:15:52	0:32	32	weiblich 	20-30	Familie	mit Eltern 		9	9	00:06:46	406
+JW52	27	Mittwoch, 1. September 2021	12:12:15	12:38:13	0:25	25	weiblich 	15-19	Gruppe	mit Freundinnen 		3	3	00:01:29	89
+JW53	28	Mittwoch, 1. September 2021	14:54:17	15:28:22	0:34	34	männlich	15-19	Familie	mit Eltern 		8	8	00:03:56	236
+JW54	37	Dienstag, 21. September 2021	10:39:03	11:26:29	0:47	47	weiblich 	20-30	Schulklasse	mit Schülern 		5	5	00:01:38	98
+JW55	56	Dienstag, 21. September 2021	12:33:09	13:39:35	1:06	66	männlich	ab 61	Familie	mit Tochter und Schwiegersohn 		13	13	00:10:11	611
+JW56	39	Mittwoch, 22. September 2021	10:36:30	10:59:08	0:22	22	weiblich 	20-30	mit Partner:in / Freund:i	mit Freund		7	7	00:02:29	149
+JW57	58	Mittwoch, 22. September 2021	11:49:29	12:32:17	0:42	42	männlich	ab 61	allein	allein 		13	13	00:16:17	977
+JW58	29	Mittwoch, 22. September 2021	14:00:56	15:20:12	1:19	79	weiblich 	15-19	Familie	mit Mutter		24	19	00:23:56	1436
+JW59	36	Donnerstag, 23. September 2021	10:50:08	11:49:29	0:59	59	männlich	20-30	Familie	mit Sohn, Frau und Schwiegermutter	Geht von 11.42 - 11.45 Uhr aufs Klo 	13	11	00:10:27	627
+JW60	38	Freitag, 24. September 2021	10:20:24	10:44:06	0:23	23	männlich	20-30	Gruppe	mit Lehrergruppe		5	5	00:01:33	93
+															
+															

@@ -1,0 +1,1209 @@
+Code	Geschlecht	Alter	Mit wem	Startzeit	Exponat	min:sec	Weg-Nr	Gelesen	Video	Bemerkungen				
+JW01	männlich	10-14	Familie	13:08:00	2b Sonartechnik	00:04	1							
+JW01	männlich	10-14	Familie	13:08:14	3c Spezialkamera	00:56	2		00:16					
+JW01	männlich	10-14	Familie	13:09:22	4c Jura-Meer Ba-Wü	00:04	3							
+JW01	männlich	10-14	Familie	13:09:48	6c Geomar	00:17	4							
+JW01	männlich	10-14	Familie	13:10:09	6d Tiefseetaucherin	00:05	5							
+JW01	männlich	10-14	Familie	13:10:20	7b Tauchmission	06:18	6							
+JW02	männlich	10-14	Familie	13:54:59	1 Am Strand	00:28	1							
+JW02	männlich	10-14	Familie	13:55:41	2x Rippenquallen	00:07	2							
+JW02	männlich	10-14	Familie	13:55:49	2a Plankton	00:07	3							
+JW02	männlich	10-14	Familie	13:55:58	2c Larven und erw. Tiere	00:59	4							
+JW02	männlich	10-14	Familie	13:57:00	2b Sonartechnik	00:21	5							
+JW02	männlich	10-14	Familie	13:57:41	3a Bioflu. Meerestiere	00:52	6		00:48					
+JW02	männlich	10-14	Familie	13:58:40	4b In Lebensgröße	05:54	7							
+JW02	männlich	10-14	Familie	14:04:37	3a Bioflu. Meerestiere	00:22	8							
+JW02	männlich	10-14	Familie	14:05:00	3b Bioflu. im Ozean	00:54	9		00:17					
+JW02	männlich	10-14	Familie	14:05:59	4a Heute und früher	01:26	10			Verlassen Ausstellung am Eingang 				
+JW03	weiblich	10-14	Familie	14:55:20	2x Rippenquallen	00:17	1							
+JW03	weiblich	10-14	Familie	14:55:39	2b Sonartechnik	00:45	2							
+JW03	weiblich	10-14	Familie	14:56:30	2c Larven und erw. Tiere	00:31	3							
+JW03	weiblich	10-14	Familie	14:57:07	3a Bioflu. Meerestiere	00:43	4							
+JW03	weiblich	10-14	Familie	14:57:52	3b Bioflu. im Ozean	00:33	5							
+JW03	weiblich	10-14	Familie	14:58:27	4a Heute und früher	00:43	6							
+JW03	weiblich	10-14	Familie	14:59:15	4b In Lebensgröße	01:52	7							
+JW03	weiblich	10-14	Familie	15:01:09	3c Spezialkamera	01:00	8							
+JW03	weiblich	10-14	Familie	15:02:36	4d Datenrekorder	00:11	9							
+JW03	weiblich	10-14	Familie	15:03:08	5c Landschaftsgestaltung	03:00	10							
+JW03	weiblich	10-14	Familie	15:06:22	5b Unterseelandschaften	00:07	11							
+JW03	weiblich	10-14	Familie	15:06:33	6a Reise in die Tiefe	00:05	12							
+JW03	weiblich	10-14	Familie	15:06:39	6b Tauchboot	00:19	13							
+JW03	weiblich	10-14	Familie	15:07:10	6a Reise in die Tiefe	00:16	14							
+JW03	weiblich	10-14	Familie	15:07:44	5b Unterseelandschaften	00:28	15							
+JW03	weiblich	10-14	Familie	15:08:49	6a Reise in die Tiefe	04:22	16							
+JW03	weiblich	10-14	Familie	15:13:14	6d Tiefseetaucherin	00:19	17							
+JW03	weiblich	10-14	Familie	15:13:34	6b Tauchboot	00:54	18			Mutter macht Bild von Tochter und Vater				
+JW03	weiblich	10-14	Familie	15:14:46	7b Tauchmission	04:44	19							
+JW03	weiblich	10-14	Familie	15:19:39	7d Strömungsmessung	00:26	20							
+JW04	weiblich	10-14	Familie	14:30:56	1 Am Strand	00:20	1							
+JW04	weiblich	10-14	Familie	14:31:25	2c Larven und erw. Tiere	00:50	2							
+JW04	weiblich	10-14	Familie	14:32:27	2a Plankton	00:55	3	00:41						0.007002315
+JW04	weiblich	10-14	Familie	14:33:24	3a Bioflu. Meerestiere	01:22	4		01:15					
+JW04	weiblich	10-14	Familie	14:34:48	2c Larven und erw. Tiere	00:28	5							
+JW04	weiblich	10-14	Familie	14:35:18	3b Bioflu. im Ozean	00:16	6							
+JW04	weiblich	10-14	Familie	14:35:37	4b In Lebensgröße	06:15	7							
+JW04	weiblich	10-14	Familie	14:41:55	3c Spezialkamera	01:05	8							
+JW04	weiblich	10-14	Familie	14:43:02	4b In Lebensgröße	00:15	9							
+JW05	weiblich	31-60	Familie	13:05:06	2a Plankton	00:48	6	00:42						0.006134259
+JW04	weiblich	10-14	Familie	14:45:55	5a Globales Förderband	00:22	11							
+JW04	weiblich	10-14	Familie	14:46:18	5b Unterseelandschaften	00:35	12							
+JW04	weiblich	10-14	Familie	14:46:54	5d Probenahme-Roboter	00:09	13							
+JW04	weiblich	10-14	Familie	14:47:12	5a Globales Förderband	00:54	14							
+JW04	weiblich	10-14	Familie	14:48:17	6b Tauchboot	00:16	15							
+JW04	weiblich	10-14	Familie	14:48:42	6a Reise in die Tiefe	01:41	16							
+JW04	weiblich	10-14	Familie	14:50:50	5c Landschaftsgestaltung	11:54	17							
+JW04	weiblich	10-14	Familie	15:03:10	6b Tauchboot	00:33	18							
+JW04	weiblich	10-14	Familie	15:03:44	6a Reise in die Tiefe	04:10	19							
+JW04	weiblich	10-14	Familie	15:09:02	7b Tauchmission	11:26	20							
+JW05	weiblich	31-60	Familie	12:57:42	1 Am Strand	00:50	1							
+JW05	weiblich	31-60	Familie	13:06:42	2a Plankton	00:32	8	00:25						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:29:50	2a Plankton	01:22	25	01:00						
+JW05	weiblich	31-60	Familie	13:04:05	2y Plankton 101	00:12	4							
+JW05	weiblich	31-60	Familie	13:04:23	2c Larven und erw. Tiere	00:42	5							
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:08:26	2a Plankton	00:11	4	00:04						
+JW05	weiblich	31-60	Familie	13:05:56	2d Plankton Mikroskop	00:41	7		00:08					
+JW09	männlich	10-14	Familie	11:00:25	2a Plankton	00:42	2	00:23						
+JW05	weiblich	31-60	Familie	13:07:16	2c Larven und erw. Tiere	00:20	9							
+JW05	weiblich	31-60	Familie	13:07:38	2a Plankton	00:19	10							
+JW13	weiblich	31-60	Familie	11:50:26	2a Plankton	02:28	6	02:02						
+JW14	männlich	31-60	Familie	13:12:43	2a Plankton	01:34	4	01:26						
+JW05	weiblich	31-60	Familie	13:14:54	4a Heute und früher	00:34	13							
+JW05	weiblich	31-60	Familie	13:15:43	3b Bioflu. im Ozean	00:30	14							
+JW14	männlich	31-60	Familie	13:15:38	2a Plankton	01:03	6	00:35						
+JW05	weiblich	31-60	Familie	13:17:05	4b In Lebensgröße	05:09	16							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:37:47	2a Plankton	00:19	3	00:07						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:38:28	2a Plankton	00:43	5	00:35						
+JW21	weiblich	ab 61 	Familie	11:05:08	2a Plankton	00:11	5	00:07						
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:04:06	2a Plankton	00:12	2	00:08						
+JW25	männlich	ab 61 	allein	09:53:13	2a Plankton	00:55	2	00:49						
+JW27	männlich	31-60	Familie	11:19:22	2a Plankton	03:54	6	03:50						
+JW35	weiblich	20-30	Familie	11:18:58	2a Plankton	00:17	6	00:08						
+JW05	weiblich	31-60	Familie	13:37:34	5c Landschaftsgestaltung	05:51	24							
+JW37	weiblich	15-19	Familie	12:38:48	2a Plankton	00:12	6	00:04						
+JW05	weiblich	31-60	Familie	13:45:07	6a Reise in die Tiefe	09:32	26							
+JW05	weiblich	31-60	Familie	13:54:51	6b Tauchboot	00:19	27							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	11:56:26	2a Plankton	01:39	1	00:49						
+JW41	männlich	15-19	Familie	10:59:02	2a Plankton	01:20	1	00:21						
+JW05	weiblich	31-60	Familie	13:59:29	7b Tauchmission	08:47	30							
+JW05	weiblich	31-60	Familie	14:08:19	7a Schwarmverhalten	00:14	31							
+JW50	männlich	15-19	Familie	15:16:41	2a Plankton	00:17	1	00:07						
+JW05	weiblich	31-60	Familie	14:09:09	7d Strömungsmessung	00:09	33							
+JW51	weiblich	20-30	Familie	10:44:00	2a Plankton	02:28	2	02:01						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:24:17	1 Am Strand	00:13	1							
+JW53	männlich	15-19	Familie	14:59:13	2a Plankton	00:54	10	00:12						
+JW54	weiblich	20-30	Schulklasse 	10:39:23	2a Plankton	00:38	2	00:07						
+JW55	männlich	ab 61 	Familie	12:38:12	2a Plankton	00:24	5	00:16						
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:39:38	2a Plankton	00:21	3	00:11						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:34:15	4b In Lebensgröße	00:17	6							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:34:33	4d Datenrekorder	00:31	7							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:35:10	5b Unterseelandschaften	00:21	8							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:35:35	5c Landschaftsgestaltung	00:25	9							
+JW58	weiblich	15-19	Familie	14:04:29	2a Plankton	00:57	7	00:18						
+JW59	männlich	20-30	Familie	10:50:21	2a Plankton	01:40	2	01:17						
+JW05	weiblich	31-60	Familie	13:00:36	2b Sonartechnik	03:22	3	02:48						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:25:40	2b Sonartechnik	01:02	3	00:45						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:42:59	5b Unterseelandschaften	00:09	14							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:43:27	6a Reise in die Tiefe	00:20	15							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:24:51	2b Sonartechnik	03:18	22	00:30						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:04:03	2b Sonartechnik	03:14	2	00:29	02:17					
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:47:07	6a Reise in die Tiefe	06:43	18							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:27:30	2b Sonartechnik	00:13	1	00:08						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:21:52	1 Am Strand	00:21	20							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:37:19	2b Sonartechnik	00:26	2	00:14						
+JW21	weiblich	ab 61 	Familie	11:03:48	2b Sonartechnik	00:33	3	00:25						
+JW27	männlich	31-60	Familie	11:13:21	2b Sonartechnik	03:52	3	00:16						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:29:08	2c Larven und erw. Tiere	00:41	24							
+JW31	männlich	15-19	Familie	11:52:40	2b Sonartechnik	01:04	2	00:45						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:31:16	2d Plankton Mikroskop	00:09	26							
+JW37	weiblich	15-19	Familie	12:35:34	2b Sonartechnik	01:48	3	00:28	00:53					
+JW48	weiblich	3-9	Familie	10:58:38	2b Sonartechnik	00:29	3	00:04						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:38:20	4b In Lebensgröße	05:08	29							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:43:41	3c Spezialkamera	01:08	30							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:44:51	4a Heute und früher	00:33	31							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:45:54	4c Jura-Meer Ba-Wü	01:24	32							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:47:44	4d Datenrekorder	00:24	33							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:36:30	2b Sonartechnik	01:35	1	00:15						
+JW57	männlich	ab 61 	allein	11:52:07	2b Sonartechnik	02:34	6	00:40						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:53:04	5c Landschaftsgestaltung	02:23	36							
+JW58	weiblich	15-19	Familie	14:01:24	2b Sonartechnik	01:55	2	00:14						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:07:23	2c Larven und erw. Tiere	01:02	3	00:08						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:57:11	6b Tauchboot	00:26	39							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:57:53	7b Tauchmission	04:41	40							
+JW41	männlich	15-19	Familie	11:16:53	2c Larven und erw. Tiere	00:48	12	00:08						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	12:05:39	7d Strömungsmessung	00:41	42							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	12:07:20	7b Tauchmission	00:26	43							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	12:07:50	7a Schwarmverhalten	00:20	44							
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:03:54	1 Am Strand	00:05	1							
+JW42	männlich	10-14	Familie	11:57:13	2c Larven und erw. Tiere	00:53	2	00:25						
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:38:09	2c Larven und erw. Tiere	01:16	2	00:14						
+JW13	weiblich	31-60	Familie	11:53:04	2d Plankton Mikroskop	00:50	7	00:22						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:08:39	3a Bioflu. Meerestiere	05:00	5		03:07					
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:13:44	3c Spezialkamera	05:55	6		03:52					
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:19:43	3a Bioflu. Meerestiere	01:06	7							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:38:09	2d Plankton Mikroskop	00:16	4	00:09						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:28:14	4c Jura-Meer Ba-Wü	01:24	9							
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:29:40	4d Datenrekorder	06:44	10		02:41					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:06:12	2d Plankton Mikroskop	00:30	5	00:10	00:11					
+JW24 	männlich	31-60	Familie	15:06:14	2d Plankton Mikroskop	00:12	7	00:08						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:40:18	5d Probenahme-Roboter	01:11	13		00:34					
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:41:34	5c Landschaftsgestaltung	03:05	14							
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:45:11	6b Tauchboot	00:22	15							
+JW49	weiblich	ab 61 	Familie	12:53:52	2d Plankton Mikroskop	00:22	8	00:07	00:05					
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:46:04	6a Reise in die Tiefe	08:18	17							
+JW09	männlich	10-14	Familie	11:00:03	1 Am Strand	00:12	1							
+JW55	männlich	ab 61 	Familie	12:39:14	2d Plankton Mikroskop	00:31	7	00:26						
+JW09	männlich	10-14	Familie	11:01:09	2c Larven und erw. Tiere	00:47	3							
+JW09	männlich	10-14	Familie	11:02:00	2b Sonartechnik	01:21	4		00:28					
+JW09	männlich	10-14	Familie	11:03:25	2x Rippenquallen	00:26	5							
+JW09	männlich	10-14	Familie	11:04:41	3c Spezialkamera	00:33	6							
+JW09	männlich	10-14	Familie	11:05:16	4b In Lebensgröße	04:12	7							
+JW09	männlich	10-14	Familie	11:09:41	3c Spezialkamera	00:48	8		00:10					
+JW09	männlich	10-14	Familie	11:10:33	3b Bioflu. im Ozean	00:45	9							
+JW09	männlich	10-14	Familie	11:11:20	4a Heute und früher	01:11	10							
+JW09	männlich	10-14	Familie	11:12:40	4d Datenrekorder	01:05	11		00:21					
+JW09	männlich	10-14	Familie	11:13:46	4c Jura-Meer Ba-Wü	01:28	12							
+JW09	männlich	10-14	Familie	11:15:28	5c Landschaftsgestaltung	04:39	13							
+JW09	männlich	10-14	Familie	11:20:09	5b Unterseelandschaften	01:10	14							
+JW09	männlich	10-14	Familie	11:21:32	5a Globales Förderband	00:05	15							
+JW09	männlich	10-14	Familie	11:21:38	6b Tauchboot	01:54	16							
+JW09	männlich	10-14	Familie	11:23:41	7b Tauchmission	08:05	17							
+JW09	männlich	10-14	Familie	11:32:20	7d Strömungsmessung	00:18	18							
+JW09	männlich	10-14	Familie	11:33:08	6a Reise in die Tiefe	09:28	19							
+JW09	männlich	10-14	Familie	11:43:41	1 Am Strand	00:41	20							
+JW05	weiblich	31-60	Familie	12:59:01	2x Rippenquallen	01:30	2	01:11						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:25:08	2x Rippenquallen	00:31	2	00:21						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:28:11	2b Sonartechnik	00:44	3							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:22:42	2x Rippenquallen	02:02	21	00:18						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:29:53	2c Larven und erw. Tiere	01:16	5							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:27:44	2x Rippenquallen	00:19	2	00:14						
+JW11	weiblich	ab 61 	Familie	13:22:14	2x Rippenquallen	01:14	2	01:08						
+JW13	weiblich	31-60	Familie	11:47:58	2x Rippenquallen	00:41	2	00:29						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:36:16	2x Rippenquallen	01:01	1	00:20						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:39:52	4d Datenrekorder	00:54	10							
+JW21	weiblich	ab 61 	Familie	11:04:31	2x Rippenquallen	00:35	4	00:07						
+JW23	männlich	31-60	Familie	14:26:57	2x Rippenquallen	00:41	2	00:17						
+JW24 	männlich	31-60	Familie	15:04:00	2x Rippenquallen	00:13	2	00:10						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:45:52	5c Landschaftsgestaltung	09:45	14							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:55:56	5d Probenahme-Roboter	00:14	15							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:56:21	6b Tauchboot	00:40	16							
+JW25	männlich	ab 61 	allein	09:52:55	2x Rippenquallen	00:15	1	00:10						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:59:22	7d Strömungsmessung	00:35	18							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	13:00:45	7b Tauchmission	09:47	19							
+JW11	weiblich	ab 61 	Familie	13:21:57	1 Am Strand	00:09	1							
+JW27	männlich	31-60	Familie	11:11:07	2x Rippenquallen	02:06	2	01:23						
+JW11	weiblich	ab 61 	Familie	13:23:35	2b Sonartechnik	02:38	3		01:52					
+JW11	weiblich	ab 61 	Familie	13:26:14	2c Larven und erw. Tiere	00:03	4							
+JW29	männlich	31-60	Familie	10:49:54	2x Rippenquallen	00:28	2	00:19						
+JW11	weiblich	ab 61 	Familie	13:27:06	2c Larven und erw. Tiere	00:35	6							
+JW11	weiblich	ab 61 	Familie	13:27:44	2z Im Meerwasser	00:11	7							
+JW11	weiblich	ab 61 	Familie	13:27:58	2d Plankton Mikroskop	00:28	8							
+JW11	weiblich	ab 61 	Familie	13:28:36	3a Bioflu. Meerestiere	02:34	9		01:48					
+JW32	männlich	ab 61 	Familie	13:26:37	2x Rippenquallen	00:49	3	00:38						
+JW11	weiblich	ab 61 	Familie	13:31:40	3c Spezialkamera	01:43	11							
+JW11	weiblich	ab 61 	Familie	13:33:24	3b Bioflu. im Ozean	02:14	12		00:52					
+JW37	weiblich	15-19	Familie	12:35:14	2x Rippenquallen	00:16	2	00:12						
+JW11	weiblich	ab 61 	Familie	13:38:20	4b In Lebensgröße	03:49	14							
+JW11	weiblich	ab 61 	Familie	13:42:14	4a Heute und früher	01:01	15							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:02:55	2x Rippenquallen	02:40	5	01:53						
+JW11	weiblich	ab 61 	Familie	13:46:44	5a Globales Förderband	00:31	17							
+JW55	männlich	ab 61 	Familie	12:33:53	2x Rippenquallen	01:39	2	00:49						
+JW57	männlich	ab 61 	allein	11:53:44	2x Rippenquallen	00:22	7	00:19						
+JW11	weiblich	ab 61 	Familie	13:50:04	6b Tauchboot	00:19	20							
+JW11	weiblich	ab 61 	Familie	13:50:25	6d Tiefseetaucherin	00:07	21							
+JW11	weiblich	ab 61 	Familie	13:50:33	6a Reise in die Tiefe	09:31	22							
+JW58	weiblich	15-19	Familie	14:00:56	2x Rippenquallen	00:22	1	00:15						
+JW11	weiblich	ab 61 	Familie	14:00:54	6b Tauchboot	00:33	24							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:28:13	2y Plankton 101	00:52	23	00:46						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:29:03	2y Plankton 101	00:46	4	00:43						
+JW11	weiblich	ab 61 	Familie	14:04:10	7c Naturschutz	00:04	27							
+JW11	weiblich	ab 61 	Familie	14:04:15	7b Tauchmission	10:27	28							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:24:21	1 Am Strand	00:15	1							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:24:41	2x Rippenquallen	00:03	2							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:24:46	2a Plankton	00:10	3							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:24:59	2b Sonartechnik	00:11	4							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:25:13	2c Larven und erw. Tiere	00:37	5							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:25:52	3a Bioflu. Meerestiere	00:05	6							
+JW11	weiblich	ab 61 	Familie	13:26:17	2y Plankton 101	00:44	5	00:43						
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:26:51	3c Spezialkamera	01:47	8		00:09					
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:28:42	4b In Lebensgröße	03:07	9							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:31:57	4d Datenrekorder	00:36	10							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:32:45	5b Unterseelandschaften	00:08	11							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:32:54	5c Landschaftsgestaltung	01:21	12							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:34:26	5b Unterseelandschaften	00:12	13							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:34:41	5e Topographie der Meere	00:23	14							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:35:11	6b Tauchboot	00:28	15							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:35:56	7b Tauchmission	03:49	16							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:39:52	7d Strömungsmessung	00:26	17							
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:40:21	7a Schwarmverhalten	00:37	18							
+JW13	weiblich	31-60	Familie	11:47:07	1 Am Strand	00:48	1							
+JW13	weiblich	31-60	Familie	11:49:33	2y Plankton 101	00:50	5	00:46						
+JW13	weiblich	31-60	Familie	11:48:45	2b Sonartechnik	00:06	3							
+JW13	weiblich	31-60	Familie	11:48:58	2c Larven und erw. Tiere	00:34	4							
+JW23	männlich	31-60	Familie	14:29:26	2y Plankton 101	01:22	4	01:16						
+JW24 	männlich	31-60	Familie	15:05:10	2y Plankton 101	00:07	4	00:05						
+JW27	männlich	31-60	Familie	11:17:14	2y Plankton 101	00:55	4	00:50						
+JW29	männlich	31-60	Familie	10:52:00	2y Plankton 101	00:17	4	00:14						
+JW32	männlich	ab 61 	Familie	13:27:39	2y Plankton 101	00:41	4	00:30						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	11:59:59	2y Plankton 101	02:07	3	01:20						
+JW41	männlich	15-19	Familie	11:00:32	2y Plankton 101	00:52	3	00:48						
+JW13	weiblich	31-60	Familie	12:09:55	4b In Lebensgröße	03:53	12							
+JW55	männlich	ab 61 	Familie	12:37:14	2y Plankton 101	00:23	3	00:20						
+JW57	männlich	ab 61 	allein	11:50:57	2y Plankton 101	01:06	5	01:03						
+JW58	weiblich	15-19	Familie	14:03:23	2y Plankton 101	00:19	3	00:05						
+JW13	weiblich	31-60	Familie	12:18:46	5b Unterseelandschaften	00:07	16							
+JW13	weiblich	31-60	Familie	12:18:56	5c Landschaftsgestaltung	01:58	17							
+JW59	männlich	20-30	Familie	10:54:06	2y Plankton 101	00:33	4	00:29						
+JW57	männlich	ab 61 	allein	11:50:12	2z Im Meerwasser	00:06	3	00:04						
+JW05	weiblich	31-60	Familie	13:08:18	3a Bioflu. Meerestiere	03:02	11	00:57	01:18					
+JW13	weiblich	31-60	Familie	12:27:33	6a Reise in die Tiefe	08:29	21							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:31:52	3a Bioflu. Meerestiere	03:00	27	00:18	00:58					
+JW13	weiblich	31-60	Familie	12:39:05	7c Naturschutz	00:19	23							
+JW13	weiblich	31-60	Familie	12:39:24	7d Strömungsmessung	00:05	24							
+JW14	männlich	31-60	Familie	13:10:17	1 Am Strand	00:07	1							
+JW14	männlich	31-60	Familie	13:10:27	2b Sonartechnik	01:12	2		00:53					
+JW14	männlich	31-60	Familie	13:11:41	2c Larven und erw. Tiere	01:01	3							
+JW13	weiblich	31-60	Familie	11:53:57	3a Bioflu. Meerestiere	04:54	8	02:18	02:08					
+JW14	männlich	31-60	Familie	13:14:19	2d Plankton Mikroskop	00:18	5							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:39:47	3a Bioflu. Meerestiere	01:19	7	00:29	00:16					
+JW14	männlich	31-60	Familie	13:16:46	3a Bioflu. Meerestiere	00:21	7							
+JW24 	männlich	31-60	Familie	15:06:35	3a Bioflu. Meerestiere	01:05	8	00:17	00:41					
+JW14	männlich	31-60	Familie	13:18:55	3c Spezialkamera	00:24	9							
+JW14	männlich	31-60	Familie	13:19:21	4b In Lebensgröße	03:15	10							
+JW27	männlich	31-60	Familie	11:23:25	3a Bioflu. Meerestiere	01:29	8	01:10						
+JW14	männlich	31-60	Familie	13:24:23	4d Datenrekorder	00:28	12							
+JW14	männlich	31-60	Familie	13:25:21	5b Unterseelandschaften	00:15	13							
+JW14	männlich	31-60	Familie	13:25:48	5c Landschaftsgestaltung	04:16	14							
+JW32	männlich	ab 61 	Familie	13:28:35	3a Bioflu. Meerestiere	00:43	5	00:23	00:13					
+JW34	weiblich	3-9	Familie	14:53:17	3a Bioflu. Meerestiere	03:35	4	00:07	03:11					
+JW14	männlich	31-60	Familie	13:31:52	4b In Lebensgröße	00:18	17							
+JW14	männlich	31-60	Familie	13:32:23	5c Landschaftsgestaltung	03:01	18							
+JW14	männlich	31-60	Familie	13:35:36	6a Reise in die Tiefe	08:58	19							
+JW14	männlich	31-60	Familie	13:44:47	6b Tauchboot	00:35	20							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:05:40	3a Bioflu. Meerestiere	03:41	6	01:06	02:26					
+JW14	männlich	31-60	Familie	13:48:39	7b Tauchmission	02:19	22							
+JW14	männlich	31-60	Familie	13:51:05	7c Naturschutz	00:06	23							
+JW14	männlich	31-60	Familie	13:51:12	7d Strömungsmessung	00:17	24							
+JW14	männlich	31-60	Familie	13:51:35	8 Neue Ansätze	00:17	25							
+JW14	männlich	31-60	Familie	13:52:12	7b Tauchmission	00:55	26							
+JW15	weiblich	10-14	Familie	14:14:41 	2c Larven und erw. Tiere	00:09	1							
+JW15	weiblich	10-14	Familie	14:14:57	2b Sonartechnik	00:36	2							
+JW15	weiblich	10-14	Familie	14:16:07	3a Bioflu. Meerestiere	00:46	3							
+JW15	weiblich	10-14	Familie	14:17:11	4a Heute und früher	00:56	4							
+JW15	weiblich	10-14	Familie	14:18:29	4c Jura-Meer Ba-Wü	00:55	5							
+JW15	weiblich	10-14	Familie	14:19:25	4d Datenrekorder	00:54	6							
+JW15	weiblich	10-14	Familie	14:21:05	5c Landschaftsgestaltung	00:14	7							
+JW15	weiblich	10-14	Familie	14:21:20	5d Probenahme-Roboter	01:05	8							
+JW15	weiblich	10-14	Familie	14:22:37	6b Tauchboot	00:30	9							
+JW15	weiblich	10-14	Familie	14:23:12	6c Geomar	00:42	10							
+JW15	weiblich	10-14	Familie	14:23:56	7b Tauchmission	04:54	11							
+JW16	weiblich	10-14	mit Partner:in / Freund:i	14:45:40	3a Bioflu. Meerestiere	00:06	1							
+JW16	weiblich	10-14	mit Partner:in / Freund:i	14:45:52	3b Bioflu. im Ozean	00:06	2							
+JW16	weiblich	10-14	mit Partner:in / Freund:i	14:46:11	5b Unterseelandschaften	00:07	3							
+JW16	weiblich	10-14	mit Partner:in / Freund:i	14:46:49	6d Tiefseetaucherin	00:27	4							
+JW16	weiblich	10-14	mit Partner:in / Freund:i	14:47:19	7b Tauchmission	09:28	5							
+JW16	weiblich	10-14	mit Partner:in / Freund:i	14:56:57	6b Tauchboot	00:29	6							
+JW17	männlich	3-9	Familie	11:47:35	1 Am Strand	00:09	1							
+JW17	männlich	3-9	Familie	11:48:29	5b Unterseelandschaften	00:19	2							
+JW17	männlich	3-9	Familie	11:48:52	5c Landschaftsgestaltung	01:19	3							
+JW41	männlich	15-19	Familie	11:13:30	3a Bioflu. Meerestiere	03:21	11	00:58	01:44					
+JW17	männlich	3-9	Familie	11:51:37	6b Tauchboot	00:23	5							
+JW17	männlich	3-9	Familie	11:52:09	6c Geomar	00:37	6							
+JW17	männlich	3-9	Familie	11:52:51	6a Reise in die Tiefe	08:20	7							
+JW49	weiblich	ab 61 	Familie	12:54:19	3a Bioflu. Meerestiere	04:27	9	01:44	02:30					
+JW51	weiblich	20-30	Familie	10:47:34	3a Bioflu. Meerestiere	01:35	4	00:34	00:45					
+JW55	männlich	ab 61 	Familie	12:39:50	3a Bioflu. Meerestiere	01:16	8	00:42	00:26					
+JW57	männlich	ab 61 	allein	11:54:35	3a Bioflu. Meerestiere	01:30	8	00:47	00:24					
+JW59	männlich	20-30	Familie	10:54:44	3a Bioflu. Meerestiere	00:49	5	00:39						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:39:13	2c Larven und erw. Tiere	00:30	6							
+JW05	weiblich	31-60	Familie	13:11:27	3b Bioflu. im Ozean	03:19	12	01:54	00:52					
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:26:46	3b Bioflu. im Ozean	00:42	4	00:27						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:43:12	4a Heute und früher	00:22	9							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:34:52	3b Bioflu. im Ozean	02:58	28	01:06						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:31:26	3b Bioflu. im Ozean	03:17	6	01:46						
+JW11	weiblich	ab 61 	Familie	13:31:25	3b Bioflu. im Ozean	00:13	10	00:11						
+JW12	männlich	20-30	mit Partner:in / Freund:i	14:25:57	3b Bioflu. im Ozean	00:52	7	00:21						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:53:02	5c Landschaftsgestaltung	01:48	14							
+JW13	weiblich	31-60	Familie	11:59:02	3b Bioflu. im Ozean	03:33	9	02:18	00:53					
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:56:29	5d Probenahme-Roboter	00:53	16		00:40					
+JW14	männlich	31-60	Familie	13:17:14	3b Bioflu. im Ozean	01:39	8	00:34						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:41:11	3b Bioflu. im Ozean	02:00	8	00:40	00:39					
+JW19	weiblich	3-9	Familie	13:29:13	3b Bioflu. im Ozean	01:49	7	00:13	00:11					
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:59:45	6a Reise in die Tiefe	09:17	20							
+JW20	männlich	3-9	Familie	10:43:05	3b Bioflu. im Ozean	01:01	2	00:15	00:26					
+JW18	weiblich	31-60	mit Partner:in / Freund:i	13:11:36	6c Geomar	00:13	22							
+JW21	weiblich	ab 61 	Familie	11:06:57	3b Bioflu. im Ozean	00:30	8	00:27						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	13:14:25	7d Strömungsmessung	00:36	24							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:06:51	3b Bioflu. im Ozean	01:12	6	00:15	00:18					
+JW18	weiblich	31-60	mit Partner:in / Freund:i	13:15:55	7b Tauchmission	01:49	26							
+JW19	weiblich	3-9	Familie	13:21:40	1 Am Strand	00:09	1							
+JW19	weiblich	3-9	Familie	13:21:58	2c Larven und erw. Tiere	00:42	2							
+JW19	weiblich	3-9	Familie	13:22:40	2c Larven und erw. Tiere	00:13	3							
+JW19	weiblich	3-9	Familie	13:22:54	3a Bioflu. Meerestiere	01:43	4		00:36					
+JW19	weiblich	3-9	Familie	13:23:51	2c Larven und erw. Tiere	01:25	5							
+JW19	weiblich	3-9	Familie	13:25:19	2b Sonartechnik	03:45	6							
+JW24 	männlich	31-60	Familie	15:07:43	3b Bioflu. im Ozean	01:05	9	00:58						
+JW19	weiblich	3-9	Familie	13:31:04	4b In Lebensgröße	04:49	8							
+JW19	weiblich	3-9	Familie	13:37:19	4c Jura-Meer Ba-Wü	00:24	9							
+JW19	weiblich	3-9	Familie	13:37:54	5a Globales Förderband	00:39	10							
+JW19	weiblich	3-9	Familie	13:38:34	5b Unterseelandschaften	01:27	11							
+JW19	weiblich	3-9	Familie	13:40:04	5c Landschaftsgestaltung	02:50	12							
+JW19	weiblich	3-9	Familie	13:43:00	6b Tauchboot	02:16	13							
+JW19	weiblich	3-9	Familie	13:45:23	6a Reise in die Tiefe	07:04	14							
+JW19	weiblich	3-9	Familie	13:53:06	7d Strömungsmessung	00:19	15							
+JW20	männlich	3-9	Familie	10:42:28	1 Am Strand	00:20	1							
+JW25	männlich	ab 61 	allein	09:54:21	3b Bioflu. im Ozean	01:00	3	00:24	00:09					
+JW20	männlich	3-9	Familie	10:44:27	4b In Lebensgröße	03:44	3							
+JW20	männlich	3-9	Familie	10:48:13	3c Spezialkamera	00:22	4							
+JW20	männlich	3-9	Familie	10:48:40	4c Jura-Meer Ba-Wü	00:13	5							
+JW20	männlich	3-9	Familie	10:48:54	4d Datenrekorder	00:19	6							
+JW20	männlich	3-9	Familie	10:49:25	5c Landschaftsgestaltung	00:08	7							
+JW20	männlich	3-9	Familie	10:49:36	5d Probenahme-Roboter	00:15	8							
+JW20	männlich	3-9	Familie	10:50:04	5c Landschaftsgestaltung	03:39	9							
+JW20	männlich	3-9	Familie	10:53:53	5b Unterseelandschaften	01:08	10							
+JW20	männlich	3-9	Familie	10:55:09	6b Tauchboot	01:26	11							
+JW20	männlich	3-9	Familie	10:56:42	6c Geomar	00:27	12							
+JW20	männlich	3-9	Familie	10:57:20	7d Strömungsmessung	00:16	13							
+JW20	männlich	3-9	Familie	10:58:00	6b Tauchboot	00:28	14							
+JW21	weiblich	ab 61 	Familie	11:02:52	1 Am Strand	00:09	1							
+JW21	weiblich	ab 61 	Familie	11:03:03	2a Plankton	00:27	2							
+JW27	männlich	31-60	Familie	11:24:55	3b Bioflu. im Ozean	06:42	9	01:30						
+JW29	männlich	31-60	Familie	10:55:10	3b Bioflu. im Ozean	01:34	10	00:43	00:43					
+JW30	männlich	15-19	Familie	11:29:12	3b Bioflu. im Ozean	00:37	4	00:24	00:09					
+JW21	weiblich	ab 61 	Familie	11:05:21	2c Larven und erw. Tiere	00:48	6							
+JW21	weiblich	ab 61 	Familie	11:06:12	3a Bioflu. Meerestiere	00:33	7		00:15					
+JW35	weiblich	20-30	Familie	11:19:38	3b Bioflu. im Ozean	00:56	8	00:31						
+JW21	weiblich	ab 61 	Familie	11:07:30	3c Spezialkamera	00:14	9							
+JW21	weiblich	ab 61 	Familie	11:07:47	4b In Lebensgröße	07:44	10							
+JW21	weiblich	ab 61 	Familie	11:15:35	3c Spezialkamera	00:29	11							
+JW21	weiblich	ab 61 	Familie	11:16:09	3b Bioflu. im Ozean	00:33	12		00:23					
+JW36	männlich	20-30	Gruppe	12:03:50	3b Bioflu. im Ozean	01:11	6	00:26	00:25					
+JW36	männlich	20-30	Gruppe	12:06:29	3b Bioflu. im Ozean	00:23	8	00:13						
+JW37	weiblich	15-19	Familie	12:40:01	3b Bioflu. im Ozean	01:48	8	01:35						
+JW21	weiblich	ab 61 	Familie	11:20:03	5c Landschaftsgestaltung	03:06	16							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:09:57	3b Bioflu. im Ozean	04:24	7	02:51	01:17					
+JW21	weiblich	ab 61 	Familie	11:24:35	5b Unterseelandschaften	00:16	18							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:21:50	3b Bioflu. im Ozean	01:28	10	00:19						
+JW41	männlich	15-19	Familie	11:03:54	3b Bioflu. im Ozean	00:51	5	00:31						
+JW41	männlich	15-19	Familie	11:09:48	3b Bioflu. im Ozean	01:38	9	00:50	00:30					
+JW21	weiblich	ab 61 	Familie	11:26:45	6a Reise in die Tiefe	08:03	22							
+JW47	weiblich	15-19	Familie	14:00:39	3b Bioflu. im Ozean	00:42	6	00:10						
+JW48	weiblich	3-9	Familie	10:59:41	3b Bioflu. im Ozean	01:47	5	00:14	00:28					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:03:15	1 Am Strand	00:11	1							
+JW49	weiblich	ab 61 	Familie	12:42:28	3b Bioflu. im Ozean	00:21	3	00:03						
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:04:23	2b Sonartechnik	01:06	3		00:33					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:05:30	2c Larven und erw. Tiere	00:26	4							
+JW49	weiblich	ab 61 	Familie	12:49:37	3b Bioflu. im Ozean	01:22	5	00:48	00:22					
+JW49	weiblich	ab 61 	Familie	12:58:48	3b Bioflu. im Ozean	05:25	10	03:41	00:51					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:08:06	4a Heute und früher	00:20	7							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:08:29	4b In Lebensgröße	04:46	8							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:13:21	4c Jura-Meer Ba-Wü	00:53	9							
+JW50	männlich	15-19	Familie	15:19:17	3b Bioflu. im Ozean	01:37	7	00:10	00:35					
+JW55	männlich	ab 61 	Familie	12:41:29	3b Bioflu. im Ozean	01:34	9	00:24	00:34					
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:40:32	3b Bioflu. im Ozean	02:14	5	01:18	00:06					
+JW58	weiblich	15-19	Familie	14:09:25	3b Bioflu. im Ozean	03:30	10	01:24	00:49					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:19:13	5d Probenahme-Roboter	00:30	14							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:19:50	5c Landschaftsgestaltung	01:24	15							
+JW58	weiblich	15-19	Familie	14:13:07	3b Bioflu. im Ozean	01:20	12	00:28						
+JW60	männlich	20-30	Gruppe	10:28:03	3b Bioflu. im Ozean	01:06	6	00:05						
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:23:05	6a Reise in die Tiefe	13:01	18							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:36:19	6b Tauchboot	00:11	19							
+JW05	weiblich	31-60	Familie	13:22:21	3c Spezialkamera	04:16	17	00:29	01:25					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:41:36	7a Schwarmverhalten	01:09	21							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:27:35	3c Spezialkamera	05:39	5	00:36	01:42					
+JW23	männlich	31-60	Familie	14:25:43	1 Am Strand	01:00	1							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:35:27	3c Spezialkamera	02:05	8	00:10	00:24					
+JW23	männlich	31-60	Familie	14:27:41	2b Sonartechnik	01:41	3							
+JW13	weiblich	31-60	Familie	12:03:50	3c Spezialkamera	06:02	11	00:30	03:57					
+JW23	männlich	31-60	Familie	14:30:50	2c Larven und erw. Tiere	01:25	5							
+JW23	männlich	31-60	Familie	14:32:35	4b In Lebensgröße	04:28	6							
+JW23	männlich	31-60	Familie	14:40:34	3c Spezialkamera	01:43	8	00:48	00:38					
+JW27	männlich	31-60	Familie	11:31:39	3c Spezialkamera	05:53	10	01:13	01:47					
+JW23	männlich	31-60	Familie	14:42:30	4c Jura-Meer Ba-Wü	00:53	9							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:24:33	3c Spezialkamera	03:26	11	02:18	00:57					
+JW41	männlich	15-19	Familie	11:11:30	3c Spezialkamera	01:52	10	00:21						
+JW57	männlich	ab 61 	allein	11:56:32	3c Spezialkamera	02:36	10	00:45						
+JW23	männlich	31-60	Familie	14:51:38	5c Landschaftsgestaltung	01:09	13							
+JW58	weiblich	15-19	Familie	14:14:32	3c Spezialkamera	05:20	13	00:07	03:25					
+JW23	männlich	31-60	Familie	14:53:39	6a Reise in die Tiefe	01:31	15							
+JW24 	männlich	31-60	Familie	15:03:53	1 Am Strand	00:06	1							
+JW05	weiblich	31-60	Familie	13:16:14	4a Heute und früher	00:50	15	00:28						
+JW24 	männlich	31-60	Familie	15:04:15	2b Sonartechnik	00:51	3							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:34:45	4a Heute und früher	00:35	7	00:29						
+JW24 	männlich	31-60	Familie	15:05:19	2c Larven und erw. Tiere	00:21	5							
+JW24 	männlich	31-60	Familie	15:05:41	2a Plankton	00:32	6							
+JW11	weiblich	ab 61 	Familie	13:35:40	4a Heute und früher	02:03	13	01:31						
+JW13	weiblich	31-60	Familie	12:02:37	4a Heute und früher	00:27	10	00:37						
+JW23	männlich	31-60	Familie	14:37:11	4a Heute und früher	03:21	7	01:38						
+JW24 	männlich	31-60	Familie	15:08:50	4a Heute und früher	00:17	10							
+JW24 	männlich	31-60	Familie	15:09:09	3b Bioflu. im Ozean	00:44	11		00:39					
+JW24 	männlich	31-60	Familie	15:09:55	4a Heute und früher	01:14	12	00:44						
+JW24 	männlich	31-60	Familie	15:11:11	4b In Lebensgröße	04:52	13							
+JW24 	männlich	31-60	Familie	15:16:06	4c Jura-Meer Ba-Wü	01:10	14							
+JW24 	männlich	31-60	Familie	15:17:32	5b Unterseelandschaften	00:21	15							
+JW24 	männlich	31-60	Familie	15:17:54	5c Landschaftsgestaltung	03:23	16							
+JW34	weiblich	3-9	Familie	14:57:55	4a Heute und früher	02:12	6	00:56						
+JW24 	männlich	31-60	Familie	15:22:09	6a Reise in die Tiefe	08:32	18							
+JW24 	männlich	31-60	Familie	15:30:53	6b Tauchboot	00:23	19							
+JW37	weiblich	15-19	Familie	12:41:53	4a Heute und früher	00:45	9	00:38						
+JW24 	männlich	31-60	Familie	15:31:50	7b Tauchmission	03:55	21							
+JW24 	männlich	31-60	Familie	15:36:17	7d Strömungsmessung	00:08	22							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:14:26	4a Heute und früher	02:40	8	01:34						
+JW41	männlich	15-19	Familie	11:07:21	4a Heute und früher	01:39	7	00:22						
+JW42	männlich	10-14	Familie	12:02:22	4a Heute und früher	00:37	7	00:12						
+JW25	männlich	ab 61 	allein	09:55:23	4a Heute und früher	00:55	4							
+JW25	männlich	ab 61 	allein	09:56:31	4b In Lebensgröße	00:10	5							
+JW25	männlich	ab 61 	allein	09:56:59	4c Jura-Meer Ba-Wü	00:41	6							
+JW49	weiblich	ab 61 	Familie	13:04:26	4a Heute und früher	02:11	11	00:37						
+JW25	männlich	ab 61 	allein	09:58:39	5c Landschaftsgestaltung	01:03	8							
+JW50	männlich	15-19	Familie	15:22:00	4a Heute und früher	00:42	9	00:17						
+JW53	männlich	15-19	Familie	15:02:56	4a Heute und früher	01:29	13	00:35						
+JW25	männlich	ab 61 	allein	10:01:55	5b Unterseelandschaften	00:05	11							
+JW55	männlich	ab 61 	Familie	12:43:05	4a Heute und früher	01:56	10	00:50						
+JW58	weiblich	15-19	Familie	14:12:56	4a Heute und früher	00:09	11	00:03						
+JW58	weiblich	15-19	Familie	14:19:57	4a Heute und früher	01:24	14	01:07						
+JW26	männlich	3-9	Schulklasse 	10:19:31	1 Am Strand	00:17	1							
+JW26	männlich	3-9	Schulklasse 	10:19:55	2a Plankton	00:14	2							
+JW26	männlich	3-9	Schulklasse 	10:20:13	2x Rippenquallen	00:34	3							
+JW26	männlich	3-9	Schulklasse 	10:21:10	2c Larven und erw. Tiere	00:36	4							
+JW26	männlich	3-9	Schulklasse 	10:21:53	3b Bioflu. im Ozean	00:26	5		00:07					
+JW26	männlich	3-9	Schulklasse 	10:22:20	4b In Lebensgröße	03:34	6							
+JW26	männlich	3-9	Schulklasse 	10:25:59	4a Heute und früher	00:10	7							
+JW26	männlich	3-9	Schulklasse 	10:26:13	3b Bioflu. im Ozean	00:10	8							
+JW26	männlich	3-9	Schulklasse 	10:26:26	4a Heute und früher	00:38	9							
+JW26	männlich	3-9	Schulklasse 	10:27:06	3c Spezialkamera	03:25	10							
+JW26	männlich	3-9	Schulklasse 	10:30:49	2d Plankton Mikroskop	00:23	11		00:19					
+JW26	männlich	3-9	Schulklasse 	10:31:15	1 Am Strand	00:29	12							
+JW26	männlich	3-9	Schulklasse 	10:31:47	2b Sonartechnik	01:19	13							
+JW26	männlich	3-9	Schulklasse 	10:33:45	4c Jura-Meer Ba-Wü	00:34	14							
+JW26	männlich	3-9	Schulklasse 	10:35:14	5b Unterseelandschaften	01:10	15							
+JW26	männlich	3-9	Schulklasse 	10:36:27	5e Topographie der Meere	00:17	16							
+JW26	männlich	3-9	Schulklasse 	10:36:47	5d Probenahme-Roboter	01:29	17							
+JW26	männlich	3-9	Schulklasse 	10:38:20	5c Landschaftsgestaltung	04:15	18							
+JW26	männlich	3-9	Schulklasse 	10:42:50	5a Globales Förderband	00:18	19							
+JW26	männlich	3-9	Schulklasse 	10:43:36	6a Reise in die Tiefe	03:15	20							
+JW26	männlich	3-9	Schulklasse 	10:47:11	6c Geomar	00:11	21							
+JW26	männlich	3-9	Schulklasse 	10:47:53	7b Tauchmission	08:38	22							
+JW26	männlich	3-9	Schulklasse 	10:56:34	7a Schwarmverhalten	02:39	23			Neuer Boden 				
+JW27	männlich	31-60	Familie	11:10:46	1 Am Strand	00:20	1							
+JW60	männlich	20-30	Gruppe	10:30:52	4a Heute und früher	02:05	7	00:47						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:21:29	4b In Lebensgröße	05:52	8	00:45	05:07					
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:43:36	4b In Lebensgröße	04:44	10	00:06	04:38					
+JW27	männlich	31-60	Familie	11:18:12	2c Larven und erw. Tiere	01:07	5							
+JW28	weiblich	10-14	Familie	14:20:12	4b In Lebensgröße	08:41	5	00:07	08:34					
+JW27	männlich	31-60	Familie	11:23:17	2d Plankton Mikroskop	00:05	7							
+JW37	weiblich	15-19	Familie	12:42:42	4b In Lebensgröße	01:02	10	00:20	00:42					
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:17:13	4b In Lebensgröße	04:34	9	00:13	04:21					
+JW41	männlich	15-19	Familie	11:04:49	4b In Lebensgröße	02:29	6	00:34	01:55					
+JW27	männlich	31-60	Familie	11:37:55	4b In Lebensgröße	05:16	11							
+JW47	weiblich	15-19	Familie	13:53:46	4b In Lebensgröße	04:41	3	00:09	04:32					
+JW58	weiblich	15-19	Familie	14:21:30	4b In Lebensgröße	06:00	15	00:37	05:23					
+JW27	männlich	31-60	Familie	11:50:43	5b Unterseelandschaften	00:17	14							
+JW59	männlich	20-30	Familie	11:06:38	4b In Lebensgröße	01:38	13	00:23	01:15					
+JW05	weiblich	31-60	Familie	13:26:50	4c Jura-Meer Ba-Wü	00:39	18	00:31						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:38:03	4c Jura-Meer Ba-Wü	01:48	9	00:54						
+JW13	weiblich	31-60	Familie	12:13:52	4c Jura-Meer Ba-Wü	01:30	13	01:23						
+JW27	männlich	31-60	Familie	12:00:11	5c Landschaftsgestaltung	01:39	19							
+JW14	männlich	31-60	Familie	13:22:39	4c Jura-Meer Ba-Wü	01:36	11	00:35						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:48:27	4c Jura-Meer Ba-Wü	01:23	11	00:11						
+JW21	weiblich	ab 61 	Familie	11:16:51	4c Jura-Meer Ba-Wü	00:23	13	00:10						
+JW27	männlich	31-60	Familie	12:06:30	5c Landschaftsgestaltung	04:21	23							
+JW27	männlich	31-60	Familie	12:11:33	6a Reise in die Tiefe	09:36	24							
+JW27	männlich	31-60	Familie	11:43:20	4c Jura-Meer Ba-Wü	01:35	12	00:13						
+JW31	männlich	15-19	Familie	12:00:16	4c Jura-Meer Ba-Wü	00:30	8	00:09						
+JW37	weiblich	15-19	Familie	12:47:47	4c Jura-Meer Ba-Wü	00:05	13	00:11						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:28:14	4c Jura-Meer Ba-Wü	03:18	12	01:12						
+JW41	männlich	15-19	Familie	11:21:15	4c Jura-Meer Ba-Wü	00:33	18	00:14						
+JW27	männlich	31-60	Familie	12:33:20	7b Tauchmission	04:17	30							
+JW27	männlich	31-60	Familie	12:37:49	7a Schwarmverhalten	00:07	31							
+JW28	weiblich	10-14	Familie	14:17:13	1 Am Strand	00:32	1							
+JW28	weiblich	10-14	Familie	14:17:56	2b Sonartechnik	00:18	2							
+JW28	weiblich	10-14	Familie	14:18:19	2d Plankton Mikroskop	00:29	3		00:26					
+JW28	weiblich	10-14	Familie	14:18:49	1 Am Strand	01:19	4							
+JW47	weiblich	15-19	Familie	13:58:42	4c Jura-Meer Ba-Wü	01:31	4	00:25						
+JW48	weiblich	3-9	Familie	11:03:01	4c Jura-Meer Ba-Wü	00:34	8	00:08						
+JW28	weiblich	10-14	Familie	14:30:14	5a Globales Förderband	00:13	7							
+JW28	weiblich	10-14	Familie	14:30:41	5c Landschaftsgestaltung	00:26	8							
+JW28	weiblich	10-14	Familie	14:31:14	6a Reise in die Tiefe	06:59	9							
+JW28	weiblich	10-14	Familie	14:38:15	6b Tauchboot	01:02	10							
+JW28	weiblich	10-14	Familie	14:39:27	6c Geomar	00:16	11							
+JW28	weiblich	10-14	Familie	14:39:45	7a Schwarmverhalten	00:59	12							
+JW28	weiblich	10-14	Familie	14:40:46	7b Tauchmission	02:02	13							
+JW29	männlich	31-60	Familie	10:49:23	1 Am Strand	00:17	1							
+JW49	weiblich	ab 61 	Familie	13:06:56	4c Jura-Meer Ba-Wü	03:34	12	02:48						
+JW29	männlich	31-60	Familie	10:50:31	2b Sonartechnik	01:27	3							
+JW51	weiblich	20-30	Familie	10:52:09	4c Jura-Meer Ba-Wü	04:47	6	00:25						
+JW29	männlich	31-60	Familie	10:52:21	2b Sonartechnik	00:35	5		00:33					
+JW29	männlich	31-60	Familie	10:52:58	2y Plankton 101	00:05	6							
+JW29	männlich	31-60	Familie	10:53:05	2c Larven und erw. Tiere	00:19	7							
+JW29	männlich	31-60	Familie	10:53:56	2d Plankton Mikroskop	00:11	8		00:06					
+JW29	männlich	31-60	Familie	10:54:15	3c Spezialkamera	00:52	9							
+JW58	weiblich	15-19	Familie	14:27:32	4c Jura-Meer Ba-Wü	00:49	16	00:16						
+JW29	männlich	31-60	Familie	10:56:47	4a Heute und früher	00:20	11							
+JW29	männlich	31-60	Familie	10:57:25	4b In Lebensgröße	02:58	12							
+JW29	männlich	31-60	Familie	11:00:39	3a Bioflu. Meerestiere	00:22	13		00:10					
+JW60	männlich	20-30	Gruppe	10:35:22	4c Jura-Meer Ba-Wü	01:33	10	00:26						
+JW04	weiblich	10-14	Familie	14:43:32	4d Datenrekorder	02:02	10	00:16						
+JW05	weiblich	31-60	Familie	13:27:45	4d Datenrekorder	03:52	19	01:28	00:40					
+JW29	männlich	31-60	Familie	11:04:32	5c Landschaftsgestaltung	02:54	17							
+JW29	männlich	31-60	Familie	11:07:28	5d Probenahme-Roboter	00:13	18							
+JW11	weiblich	ab 61 	Familie	13:43:35	4d Datenrekorder	02:57	16	02:35						
+JW13	weiblich	31-60	Familie	12:15:24	4d Datenrekorder	01:51	14	01:05	00:38					
+JW29	männlich	31-60	Familie	11:09:47	5c Landschaftsgestaltung	01:14	21							
+JW29	männlich	31-60	Familie	11:11:08	6d Tiefseetaucherin	00:25	22							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:49:52	4d Datenrekorder	02:26	12	01:02	00:15					
+JW29	männlich	31-60	Familie	11:14:15	6b Tauchboot	00:36	24							
+JW29	männlich	31-60	Familie	11:15:40	6a Reise in die Tiefe	01:21	25							
+JW29	männlich	31-60	Familie	11:17:05	6d Tiefseetaucherin	00:26	26							
+JW29	männlich	31-60	Familie	11:17:58	7b Tauchmission	06:56	27							
+JW29	männlich	31-60	Familie	11:25:34	7d Strömungsmessung	00:17	28							
+JW30	männlich	15-19	Familie	11:28:34	2a Plankton	00:07	1							
+JW30	männlich	15-19	Familie	11:28:43	2c Larven und erw. Tiere	00:19	2							
+JW30	männlich	15-19	Familie	11:29:06	3a Bioflu. Meerestiere	00:03	3							
+JW21	weiblich	ab 61 	Familie	11:17:17	4d Datenrekorder	01:39	14	00:15	00:21					
+JW30	männlich	15-19	Familie	11:29:55	4b In Lebensgröße	04:42	5							
+JW30	männlich	15-19	Familie	11:34:47	4c Jura-Meer Ba-Wü	00:36	6							
+JW30	männlich	15-19	Familie	11:35:25	4d Datenrekorder	00:20	7							
+JW30	männlich	15-19	Familie	11:35:49	5b Unterseelandschaften	00:14	8							
+JW30	männlich	15-19	Familie	11:36:16	5d Probenahme-Roboter	00:03	9							
+JW30	männlich	15-19	Familie	11:36:19	5c Landschaftsgestaltung	03:14	10							
+JW30	männlich	15-19	Familie	11:39:35	5a Globales Förderband	00:15	11							
+JW30	männlich	15-19	Familie	11:40:05	6b Tauchboot	00:11	12							
+JW30	männlich	15-19	Familie	11:40:18	6c Geomar	00:05	13							
+JW30	männlich	15-19	Familie	11:40:33	7b Tauchmission	00:18	14							
+JW30	männlich	15-19	Familie	11:40:57	7d Strömungsmessung	00:36	15							
+JW30	männlich	15-19	Familie	11:41:36	7b Tauchmission	05:10	16							
+JW31	männlich	15-19	Familie	11:52:23	1 Am Strand	00:14	1							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:14:22	4d Datenrekorder	02:59	10	01:53						
+JW31	männlich	15-19	Familie	11:53:45	2c Larven und erw. Tiere	01:07	3							
+JW31	männlich	15-19	Familie	11:55:01	3b Bioflu. im Ozean	00:18	4							
+JW31	männlich	15-19	Familie	11:55:20	4b In Lebensgröße	00:48	5							
+JW31	männlich	15-19	Familie	11:56:11	4b In Lebensgröße	03:07	6							
+JW31	männlich	15-19	Familie	11:59:20	3c Spezialkamera	00:50	7							
+JW23	männlich	31-60	Familie	14:43:24	4d Datenrekorder	03:28	10	01:50	00:50					
+JW31	männlich	15-19	Familie	12:00:48	4d Datenrekorder	00:06	9							
+JW31	männlich	15-19	Familie	12:01:07	5b Unterseelandschaften	00:20	10							
+JW31	männlich	15-19	Familie	12:01:29	5c Landschaftsgestaltung	01:49	11							
+JW31	männlich	15-19	Familie	12:03:24	5b Unterseelandschaften	00:04	12							
+JW31	männlich	15-19	Familie	12:03:31	5d Probenahme-Roboter	00:10	13							
+JW27	männlich	31-60	Familie	11:44:57	4d Datenrekorder	05:11	13	02:30	00:18					
+JW31	männlich	15-19	Familie	12:04:07	5a Globales Förderband	00:05	15							
+JW31	männlich	15-19	Familie	12:04:32	6a Reise in die Tiefe	02:24	16							
+JW31	männlich	15-19	Familie	12:07:14	6b Tauchboot	00:26	17							
+JW31	männlich	15-19	Familie	12:08:00	7a Schwarmverhalten	01:09	18							
+JW31	männlich	15-19	Familie	12:09:16	7b Tauchmission	00:26	19							
+JW31	männlich	15-19	Familie	12:10:25	5c Landschaftsgestaltung	02:08	20							
+JW31	männlich	15-19	Familie	12:12:51	7b Tauchmission	07:28	21							
+JW31	männlich	15-19	Familie	12:20:32	7c Naturschutz	00:15	22							
+JW31	männlich	15-19	Familie	12:20:50	7a Schwarmverhalten	00:07	23							
+JW32	männlich	ab 61 	Familie	13:25:52	1 Am Strand	00:12	1							
+JW32	männlich	ab 61 	Familie	13:26:06	2z Im Meerwasser	00:16	2							
+JW28	weiblich	10-14	Familie	14:29:07	4d Datenrekorder	00:56	6	00:32						
+JW29	männlich	31-60	Familie	11:01:12	4d Datenrekorder	00:40	14	00:09	00:12					
+JW32	männlich	ab 61 	Familie	13:35:26	4d Datenrekorder	00:53	9	00:44						
+JW32	männlich	ab 61 	Familie	13:29:19	3b Bioflu. im Ozean	00:06	6							
+JW32	männlich	ab 61 	Familie	13:29:31	4b In Lebensgröße	04:28	7							
+JW32	männlich	ab 61 	Familie	13:34:48	4c Jura-Meer Ba-Wü	00:37	8							
+JW34	weiblich	3-9	Familie	15:10:28	4d Datenrekorder	01:26	10	00:36						
+JW32	männlich	ab 61 	Familie	13:36:48	5b Unterseelandschaften	00:24	10							
+JW32	männlich	ab 61 	Familie	13:37:14	5c Landschaftsgestaltung	01:28	11							
+JW37	weiblich	15-19	Familie	12:48:27	4d Datenrekorder	02:22	14	01:12	01:02					
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:31:35	4d Datenrekorder	03:18	13	02:26	00:30					
+JW32	männlich	ab 61 	Familie	13:41:20	5b Unterseelandschaften	00:40	14							
+JW32	männlich	ab 61 	Familie	13:42:03	6b Tauchboot	00:26	15							
+JW40	männlich	20-30	Familie	13:51:37	4d Datenrekorder	00:18	4	00:09						
+JW41	männlich	15-19	Familie	11:21:51	4d Datenrekorder	01:39	19	00:50						
+JW32	männlich	ab 61 	Familie	13:45:08	6b Tauchboot	01:06	18							
+JW32	männlich	ab 61 	Familie	13:46:52	7b Tauchmission	03:02	19							
+JW32	männlich	ab 61 	Familie	13:50:10	7a Schwarmverhalten	00:18	20							
+JW49	weiblich	ab 61 	Familie	13:10:39	4d Datenrekorder	00:44	13	00:30						
+JW55	männlich	ab 61 	Familie	12:53:16	4d Datenrekorder	03:38	13	01:29	00:46					
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:48:31	4d Datenrekorder	00:20	8	00:04						
+JW32	männlich	ab 61 	Familie	13:54:50	7b Tauchmission	00:55	24							
+JW33	weiblich	3-9	Familie	14:12:59	1 Am Strand	00:27	1							
+JW33	weiblich	3-9	Familie	14:13:32	4b In Lebensgröße	00:10	2							
+JW33	weiblich	3-9	Familie	14:13:58	3b Bioflu. im Ozean	00:20	3							
+JW33	weiblich	3-9	Familie	14:14:40	4b In Lebensgröße	00:39	4							
+JW33	weiblich	3-9	Familie	14:15:37	4c Jura-Meer Ba-Wü	00:04	5							
+JW33	weiblich	3-9	Familie	14:15:43	4d Datenrekorder	00:10	6		00:05					
+JW33	weiblich	3-9	Familie	14:15:55	4c Jura-Meer Ba-Wü	01:04	7							
+JW33	weiblich	3-9	Familie	14:17:05	5c Landschaftsgestaltung	02:36	8							
+JW33	weiblich	3-9	Familie	14:19:48	5b Unterseelandschaften	00:14	9							
+JW33	weiblich	3-9	Familie	14:20:41	7a Schwarmverhalten	01:13	10							
+JW33	weiblich	3-9	Familie	14:21:58	7b Tauchmission	04:14	11							
+JW34	weiblich	3-9	Familie	14:48:09	1 Am Strand	00:33	1							
+JW34	weiblich	3-9	Familie	14:48:50	2b Sonartechnik	03:22	2							
+JW34	weiblich	3-9	Familie	14:52:17	2c Larven und erw. Tiere	00:58	3							
+JW57	männlich	ab 61 	allein	12:03:39	4d Datenrekorder	05:32	13	04:10	00:34					
+JW34	weiblich	3-9	Familie	14:56:54	3b Bioflu. im Ozean	00:57	5		00:25					
+JW58	weiblich	15-19	Familie	14:28:26	4d Datenrekorder	03:39	17	00:57	00:38					
+JW34	weiblich	3-9	Familie	15:00:13	3c Spezialkamera	00:35	7							
+JW34	weiblich	3-9	Familie	15:00:55	4b In Lebensgröße	09:09	8							
+JW34	weiblich	3-9	Familie	15:10:16	4c Jura-Meer Ba-Wü	00:10	9							
+JW59	männlich	20-30	Familie	11:09:01	4d Datenrekorder	00:21	15	00:08						
+JW34	weiblich	3-9	Familie	15:12:22	4b In Lebensgröße	00:13	11			Geht von 15.13 - 15.17 Uhr aufs Klo 				
+JW60	männlich	20-30	Gruppe	10:37:00	4d Datenrekorder	00:54	11	00:06	00:17					
+JW34	weiblich	3-9	Familie	15:18:37	5c Landschaftsgestaltung	12:50	13							
+JW34	weiblich	3-9	Familie	15:31:33	5d Probenahme-Roboter	00:13	14							
+JW34	weiblich	3-9	Familie	15:32:05	6a Reise in die Tiefe	07:18	15							
+JW34	weiblich	3-9	Familie	15:39:40	6b Tauchboot	03:46	16							
+JW05	weiblich	31-60	Familie	13:43:39	5a Globales Förderband	01:14	25	00:32						
+JW34	weiblich	3-9	Familie	15:45:45	7a Schwarmverhalten	00:14	18							
+JW34	weiblich	3-9	Familie	15:46:03	7b Tauchmission	04:42	19							
+JW34	weiblich	3-9	Familie	15:51:19	7a Schwarmverhalten	01:57	20							
+JW34	weiblich	3-9	Familie	15:53:19	7b Tauchmission	01:25	21							
+JW34	weiblich	3-9	Familie	15:54:48	7a Schwarmverhalten	00:27	22							
+JW35	weiblich	20-30	Familie	11:16:43	1 Am Strand	00:08	1							
+JW35	weiblich	20-30	Familie	11:16:52	2x Rippenquallen	00:18	2							
+JW35	weiblich	20-30	Familie	11:17:20	2b Sonartechnik	00:11	3							
+JW35	weiblich	20-30	Familie	11:17:33	2c Larven und erw. Tiere	00:44	4							
+JW35	weiblich	20-30	Familie	11:18:19	2b Sonartechnik	00:37	5							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:40:32	5a Globales Förderband	02:20	13	00:39						
+JW35	weiblich	20-30	Familie	11:19:19	2d Plankton Mikroskop	00:07	7							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:49:06	5a Globales Förderband	00:47	34	00:35						
+JW35	weiblich	20-30	Familie	11:21:24	3c Spezialkamera	01:24	9							
+JW35	weiblich	20-30	Familie	11:22:51	4b In Lebensgröße	04:08	10							
+JW35	weiblich	20-30	Familie	11:27:07	4c Jura-Meer Ba-Wü	00:28	11							
+JW35	weiblich	20-30	Familie	11:27:36	4d Datenrekorder	00:45	12							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:41:14	5a Globales Förderband	01:57	11	00:26						
+JW35	weiblich	20-30	Familie	11:29:57	5c Landschaftsgestaltung	07:24	14							
+JW35	weiblich	20-30	Familie	11:38:15	6b Tauchboot	00:25	15							
+JW35	weiblich	20-30	Familie	11:38:48	6c Geomar	00:10	16							
+JW35	weiblich	20-30	Familie	11:39:29	7b Tauchmission	16:21	17							
+JW35	weiblich	20-30	Familie	11:56:00	7a Schwarmverhalten	00:12	18							
+JW36	männlich	20-30	Gruppe	12:01:47	1 Am Strand	00:15	1							
+JW36	männlich	20-30	Gruppe	12:02:31	2a Plankton	00:07	2							
+JW36	männlich	20-30	Gruppe	12:02:45	2d Plankton Mikroskop	00:11	3							
+JW36	männlich	20-30	Gruppe	12:02:57	2c Larven und erw. Tiere	00:09	4							
+JW36	männlich	20-30	Gruppe	12:03:26	3a Bioflu. Meerestiere	00:22	5		00:16					
+JW13	weiblich	31-60	Familie	12:17:21	5a Globales Förderband	01:23	15	00:52						
+JW36	männlich	20-30	Gruppe	12:05:03	3c Spezialkamera	01:21	7							
+JW14	männlich	31-60	Familie	13:31:08	5a Globales Förderband	00:22	16	00:05						
+JW36	männlich	20-30	Gruppe	12:07:05	4b In Lebensgröße	00:16	9							
+JW36	männlich	20-30	Gruppe	12:07:26	4d Datenrekorder	00:30	10							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:59:13	5a Globales Förderband	00:26	19	00:12						
+JW21	weiblich	ab 61 	Familie	11:25:53	5a Globales Förderband	00:42	21	00:20						
+JW36	männlich	20-30	Gruppe	12:09:59	6b Tauchboot	00:37	13							
+JW36	männlich	20-30	Gruppe	12:10:40	6d Tiefseetaucherin	00:25	14							
+JW36	männlich	20-30	Gruppe	12:11:07	6c Geomar	00:26	15							
+JW36	männlich	20-30	Gruppe	12:11:54	7a Schwarmverhalten	00:23	16							
+JW36	männlich	20-30	Gruppe	12:12:18	7d Strömungsmessung	00:28	17							
+JW36	männlich	20-30	Gruppe	12:12:48	7a Schwarmverhalten	00:15	18							
+JW36	männlich	20-30	Gruppe	12:13:22	7c Naturschutz	00:12	19							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:17:49	5a Globales Förderband	00:27	11	00:20						
+JW37	weiblich	15-19	Familie	12:35:04	2b Sonartechnik	00:07	1							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:22:10	5a Globales Förderband	00:29	17	00:19						
+JW23	männlich	31-60	Familie	14:47:04	5a Globales Förderband	01:06	11	00:37						
+JW37	weiblich	15-19	Familie	12:37:25	2c Larven und erw. Tiere	00:55	4							
+JW37	weiblich	15-19	Familie	12:38:24	2d Plankton Mikroskop	00:18	5							
+JW25	männlich	ab 61 	allein	10:02:00	5a Globales Förderband	01:13	12	00:33						
+JW37	weiblich	15-19	Familie	12:39:04	3a Bioflu. Meerestiere	00:53	7							
+JW27	männlich	31-60	Familie	11:51:02	5a Globales Förderband	04:53	15	00:44						
+JW29	männlich	31-60	Familie	11:03:38	5a Globales Förderband	00:50	16	00:23						
+JW29	männlich	31-60	Familie	11:08:02	5a Globales Förderband	01:34	20	00:25						
+JW37	weiblich	15-19	Familie	12:44:15	4a Heute und früher	00:29	11							
+JW37	weiblich	15-19	Familie	12:44:48	4b In Lebensgröße	02:49	12							
+JW29	männlich	31-60	Familie	11:12:11	5a Globales Förderband	01:48	23	00:23						
+JW36	männlich	20-30	Gruppe	12:09:00	5a Globales Förderband	00:40	12	00:35						
+JW37	weiblich	15-19	Familie	12:51:05	5c Landschaftsgestaltung	02:11	15							
+JW37	weiblich	15-19	Familie	12:56:50	5a Globales Förderband	02:29	17	02:20						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:35:19	5a Globales Förderband	01:48	14	01:13						
+JW41	männlich	15-19	Familie	11:26:23	5a Globales Förderband	00:28	21	00:12						
+JW37	weiblich	15-19	Familie	13:01:17	7a Schwarmverhalten	00:30	19							
+JW37	weiblich	15-19	Familie	13:02:16	7b Tauchmission	03:54	20							
+JW37	weiblich	15-19	Familie	13:06:16	7c Naturschutz	00:19	21							
+JW51	weiblich	20-30	Familie	10:59:18	5a Globales Förderband	03:30	8	01:09						
+JW37	weiblich	15-19	Familie	13:07:51	7a Schwarmverhalten	00:28	23							
+JW37	weiblich	15-19	Familie	13:08:22	7b Tauchmission	01:03	24							
+JW37	weiblich	15-19	Familie	13:09:41	6a Reise in die Tiefe	09:52	25							
+JW53	männlich	15-19	Familie	15:17:46	5a Globales Förderband	00:55	25	00:44						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	11:58:08	2c Larven und erw. Tiere	01:49	2							
+JW54	weiblich	20-30	Schulklasse 	10:52:11	5a Globales Förderband	00:46	8	00:44						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:02:09	2b Sonartechnik	00:44	4							
+JW55	männlich	ab 61 	Familie	12:57:12	5a Globales Förderband	01:52	14	01:20						
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:48:59	5a Globales Förderband	00:13	9	00:07						
+JW57	männlich	ab 61 	allein	12:09:25	5a Globales Förderband	02:51	14	01:58						
+JW58	weiblich	15-19	Familie	14:32:21	5a Globales Förderband	02:03	18	01:04						
+JW59	männlich	20-30	Familie	11:24:25	5a Globales Förderband	01:17	26	00:42						
+JW60	männlich	20-30	Gruppe	10:38:16	5a Globales Förderband	00:14	13	00:09						
+JW05	weiblich	31-60	Familie	13:32:03	5b Unterseelandschaften	02:00	20	01:28						
+JW05	weiblich	31-60	Familie	13:36:54	5b Unterseelandschaften	00:37	23	00:29						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:39:01	5b Unterseelandschaften	01:26	12	01:01						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:49:54	5b Unterseelandschaften	03:02	35	02:03						
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:37:18	5b Unterseelandschaften	02:00	11	01:51						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:43:20	5b Unterseelandschaften	01:20	12	01:18						
+JW11	weiblich	ab 61 	Familie	13:47:18	5b Unterseelandschaften	02:03	18	02:01						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:43:20	6a Reise in die Tiefe	10:09	18							
+JW13	weiblich	31-60	Familie	12:20:55	5b Unterseelandschaften	02:18	18	01:03						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:52:26	5b Unterseelandschaften	00:34	13	00:27						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:54:54	5b Unterseelandschaften	01:33	15	01:25						
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:28:21	2a Plankton	00:20	1							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:28:43	2c Larven und erw. Tiere	00:16	2							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:29:02	3a Bioflu. Meerestiere	00:47	3		00:38					
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:29:51	3c Spezialkamera	00:50	4							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:30:51	4b In Lebensgröße	04:54	5							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:35:46	4c Jura-Meer Ba-Wü	00:27	6							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:36:19	4d Datenrekorder	00:07	7							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:58:21	5b Unterseelandschaften	00:49	18	00:40						
+JW21	weiblich	ab 61 	Familie	11:19:23	5b Unterseelandschaften	00:38	15	00:30						
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:38:40	6a Reise in die Tiefe	00:17	10							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:39:05	6b Tauchboot	00:16	11							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:39:35	7b Tauchmission	05:35	12							
+JW40	männlich	20-30	Familie	13:50:35	3b Bioflu. im Ozean	00:17	1							
+JW40	männlich	20-30	Familie	13:50:55	4b In Lebensgröße	00:25	2							
+JW40	männlich	20-30	Familie	13:51:20	4c Jura-Meer Ba-Wü	00:15	3							
+JW21	weiblich	ab 61 	Familie	11:25:24	5b Unterseelandschaften	00:26	20	00:22						
+JW40	männlich	20-30	Familie	13:52:12	5b Unterseelandschaften	00:08	5							
+JW40	männlich	20-30	Familie	13:52:25	5c Landschaftsgestaltung	01:17	6							
+JW40	männlich	20-30	Familie	13:53:47	5a Globales Förderband	00:15	7							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:18:17	5b Unterseelandschaften	00:43	12	00:32						
+JW40	männlich	20-30	Familie	13:54:30	6b Tauchboot	00:22	9							
+JW40	männlich	20-30	Familie	13:55:09	7a Schwarmverhalten	00:21	10							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:21:16	5b Unterseelandschaften	00:51	16	00:44						
+JW41	männlich	15-19	Familie	11:00:26	2b Sonartechnik	00:05	2							
+JW23	männlich	31-60	Familie	14:48:13	5b Unterseelandschaften	03:24	12	03:15						
+JW41	männlich	15-19	Familie	11:01:26	2b Sonartechnik	02:12	4		02:06					
+JW25	männlich	ab 61 	allein	09:58:01	5b Unterseelandschaften	00:35	7	00:14						
+JW27	männlich	31-60	Familie	11:55:59	5b Unterseelandschaften	00:43	16	00:39						
+JW27	männlich	31-60	Familie	11:58:29	5b Unterseelandschaften	01:36	18	01:28						
+JW41	männlich	15-19	Familie	11:09:03	4b In Lebensgröße	00:38	8							
+JW29	männlich	31-60	Familie	11:02:07	5b Unterseelandschaften	01:29	15	01:08						
+JW31	männlich	15-19	Familie	12:03:44	5b Unterseelandschaften	00:20	14	00:14						
+JW34	weiblich	3-9	Familie	15:17:49	5b Unterseelandschaften	00:46	12	00:16						
+JW35	weiblich	20-30	Familie	11:28:44	5b Unterseelandschaften	01:11	13	00:23						
+JW41	männlich	15-19	Familie	11:17:59	2a Plankton	00:20	13							
+JW41	männlich	15-19	Familie	11:18:36	2d Plankton Mikroskop	00:16	14							
+JW41	männlich	15-19	Familie	11:19:04	1 Am Strand	00:22	15							
+JW41	männlich	15-19	Familie	11:19:47	4c Jura-Meer Ba-Wü	00:49	16							
+JW41	männlich	15-19	Familie	11:20:39	4d Datenrekorder	00:33	17							
+JW36	männlich	20-30	Gruppe	12:08:20	5b Unterseelandschaften	00:37	11	00:20						
+JW37	weiblich	15-19	Familie	12:53:22	5b Unterseelandschaften	03:23	16	01:46						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:37:09	5b Unterseelandschaften	04:17	15	03:46						
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:36:38	5b Unterseelandschaften	01:35	8	00:36						
+JW41	männlich	15-19	Familie	11:26:53	5b Unterseelandschaften	00:31	22	00:25						
+JW41	männlich	15-19	Familie	11:28:26	5b Unterseelandschaften	02:33	25	01:37						
+JW42	männlich	10-14	Familie	12:04:45	5b Unterseelandschaften	00:16	10	00:02						
+JW47	weiblich	15-19	Familie	14:03:04	5b Unterseelandschaften	01:15	9	00:26						
+JW47	weiblich	15-19	Familie	14:10:08	5b Unterseelandschaften	02:01	12	00:26						
+JW41	männlich	15-19	Familie	11:32:06	5d Probenahme-Roboter	00:24	27		00:20					
+JW48	weiblich	3-9	Familie	11:03:51	5b Unterseelandschaften	02:09	9	00:22						
+JW49	weiblich	ab 61 	Familie	13:11:25	5b Unterseelandschaften	02:15	14	01:02						
+JW41	männlich	15-19	Familie	11:37:58	7a Schwarmverhalten	00:14	30							
+JW49	weiblich	ab 61 	Familie	13:15:31	5b Unterseelandschaften	00:42	16	00:13						
+JW41	männlich	15-19	Familie	11:40:05	7d Strömungsmessung	00:43	32							
+JW51	weiblich	20-30	Familie	10:57:38	5b Unterseelandschaften	01:38	7	00:20						
+JW41	männlich	15-19	Familie	11:41:39	7c Naturschutz	00:24	34		00:20					
+JW41	männlich	15-19	Familie	11:42:09	7a Schwarmverhalten	00:07	35							
+JW42	männlich	10-14	Familie	11:57:01	1 Am Strand	00:08	1							
+JW53	männlich	15-19	Familie	15:16:22	5b Unterseelandschaften	01:18	24	00:36						
+JW42	männlich	10-14	Familie	11:58:12	2a Plankton	00:31	3							
+JW42	männlich	10-14	Familie	11:58:56	3a Bioflu. Meerestiere	00:31	4		00:25					
+JW42	männlich	10-14	Familie	11:59:29	3c Spezialkamera	02:11	5							
+JW42	männlich	10-14	Familie	12:01:43	4b In Lebensgröße	00:35	6							
+JW54	weiblich	20-30	Schulklasse 	10:51:33	5b Unterseelandschaften	00:36	7	00:13						
+JW42	männlich	10-14	Familie	12:03:29	4c Jura-Meer Ba-Wü	00:47	8							
+JW42	männlich	10-14	Familie	12:04:18	4d Datenrekorder	00:10	9							
+JW55	männlich	ab 61 	Familie	12:59:07	5b Unterseelandschaften	01:48	15	01:37						
+JW42	männlich	10-14	Familie	12:05:09	5c Landschaftsgestaltung	00:59	11							
+JW42	männlich	10-14	Familie	12:06:22	6a Reise in die Tiefe	00:28	12							
+JW42	männlich	10-14	Familie	12:06:50	6b Tauchboot	00:40	13							
+JW42	männlich	10-14	Familie	12:07:34	6c Geomar	00:34	14							
+JW42	männlich	10-14	Familie	12:08:25	7b Tauchmission	04:27	15							
+JW43	männlich	10-14	Familie	12:44:59	1 Am Strand	00:12	1							
+JW43	männlich	10-14	Familie	12:45:43	3b Bioflu. im Ozean	00:47	2		00:34					
+JW43	männlich	10-14	Familie	12:46:33	4a Heute und früher	00:40	3							
+JW43	männlich	10-14	Familie	12:47:22	3b Bioflu. im Ozean	00:51	4							
+JW43	männlich	10-14	Familie	12:49:28	4c Jura-Meer Ba-Wü	00:30	5							
+JW43	männlich	10-14	Familie	12:50:28	5b Unterseelandschaften	00:36	6							
+JW43	männlich	10-14	Familie	12:51:15	5c Landschaftsgestaltung	05:05	7							
+JW43	männlich	10-14	Familie	12:56:43	6b Tauchboot	01:45	8							
+JW43	männlich	10-14	Familie	12:58:31	6d Tiefseetaucherin	00:06	9							
+JW43	männlich	10-14	Familie	12:58:53	7a Schwarmverhalten	01:11	10							
+JW43	männlich	10-14	Familie	13:00:07	7b Tauchmission	02:43	11							
+JW44	männlich	3-9	Familie	09:48:38	1 Am Strand	00:20	1							
+JW44	männlich	3-9	Familie	09:49:06	2a Plankton	00:17	2							
+JW44	männlich	3-9	Familie	09:49:25	2c Larven und erw. Tiere	01:10	3							
+JW44	männlich	3-9	Familie	09:50:43	2b Sonartechnik	00:30	4							
+JW44	männlich	3-9	Familie	09:51:31	3b Bioflu. im Ozean	00:32	5							
+JW44	männlich	3-9	Familie	09:52:05	3c Spezialkamera	01:20	6							
+JW44	männlich	3-9	Familie	09:54:09	4d Datenrekorder	00:59	7							
+JW44	männlich	3-9	Familie	09:55:41	5b Unterseelandschaften	00:25	8							
+JW44	männlich	3-9	Familie	09:56:09	5c Landschaftsgestaltung	02:13	9							
+JW44	männlich	3-9	Familie	09:58:34	5d Probenahme-Roboter	00:17	10							
+JW44	männlich	3-9	Familie	09:58:54	5b Unterseelandschaften	00:19	11							
+JW44	männlich	3-9	Familie	09:59:15	5a Globales Förderband	00:08	12							
+JW44	männlich	3-9	Familie	09:59:42	6b Tauchboot	00:44	13							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:49:14	5b Unterseelandschaften	01:05	10	00:20						
+JW44	männlich	3-9	Familie	10:01:11	6b Tauchboot	00:41	15							
+JW44	männlich	3-9	Familie	10:02:07	7a Schwarmverhalten	00:12	16							
+JW44	männlich	3-9	Familie	10:02:28	7d Strömungsmessung	00:34	17							
+JW45	männlich	3-9	Familie	10:34:52	1 Am Strand	01:19	1							
+JW45	männlich	3-9	Familie	10:36:12	2b Sonartechnik	00:16	2							
+JW45	männlich	3-9	Familie	10:36:31	2c Larven und erw. Tiere	00:19	3							
+JW45	männlich	3-9	Familie	10:36:53	1 Am Strand	00:09	4							
+JW45	männlich	3-9	Familie	10:37:09	4b In Lebensgröße	01:51	5							
+JW45	männlich	3-9	Familie	10:39:12	1 Am Strand	00:12	6							
+JW45	männlich	3-9	Familie	10:39:28	2a Plankton	00:07	7							
+JW45	männlich	3-9	Familie	10:39:38	2c Larven und erw. Tiere	00:10	8							
+JW45	männlich	3-9	Familie	10:39:56	3a Bioflu. Meerestiere	00:30	9		00:20					
+JW45	männlich	3-9	Familie	10:40:30	4b In Lebensgröße	01:16	10							
+JW45	männlich	3-9	Familie	10:41:57	4d Datenrekorder	00:54	11							
+JW45	männlich	3-9	Familie	10:42:56	4b In Lebensgröße	04:06	12							
+JW45	männlich	3-9	Familie	10:47:30	6b Tauchboot	00:24	13							
+JW45	männlich	3-9	Familie	10:47:57	6c Geomar	00:13	14							
+JW45	männlich	3-9	Familie	10:48:35	5c Landschaftsgestaltung	07:41	15							
+JW45	männlich	3-9	Familie	10:56:21	5d Probenahme-Roboter	01:54	16		01:17					
+JW45	männlich	3-9	Familie	10:58:19	5a Globales Förderband	00:11	17							
+JW45	männlich	3-9	Familie	10:58:34	5b Unterseelandschaften	02:25	18							
+JW45	männlich	3-9	Familie	11:01:10	6a Reise in die Tiefe	07:33	19							
+JW45	männlich	3-9	Familie	11:08:52	6c Geomar	00:41	20							
+JW45	männlich	3-9	Familie	11:09:44	7b Tauchmission	13:10	21							
+JW45	männlich	3-9	Familie	11:22:57	7a Schwarmverhalten	00:13	22							
+JW45	männlich	3-9	Familie	11:23:13	8 Neue Ansätze	00:08	23							
+JW45	männlich	3-9	Familie	11:23:34	6b Tauchboot	00:46	24							
+JW45	männlich	3-9	Familie	11:24:23	6d Tiefseetaucherin	00:20	25							
+JW45	männlich	3-9	Familie	11:25:25	5c Landschaftsgestaltung	01:06	26							
+JW45	männlich	3-9	Familie	11:26:34	5c Landschaftsgestaltung	00:30	27							
+JW45	männlich	3-9	Familie	11:27:04	3b Bioflu. im Ozean	00:25	28							
+JW45	männlich	3-9	Familie	11:27:31	4b In Lebensgröße	02:40	29							
+JW45	männlich	3-9	Familie	11:30:25	1 Am Strand	00:12	30							
+JW46	weiblich	3-9	Familie	12:52:06	1 Am Strand	00:36	1							
+JW46	weiblich	3-9	Familie	12:52:48	2c Larven und erw. Tiere	00:10	2							
+JW46	weiblich	3-9	Familie	12:53:03	3a Bioflu. Meerestiere	00:05	3							
+JW46	weiblich	3-9	Familie	12:53:13	4b In Lebensgröße	09:01	4							
+JW46	weiblich	3-9	Familie	13:02:22	4d Datenrekorder	00:21	5							
+JW46	weiblich	3-9	Familie	13:03:12	5c Landschaftsgestaltung	02:54	6							
+JW46	weiblich	3-9	Familie	13:06:10	5a Globales Förderband	00:06	7							
+JW46	weiblich	3-9	Familie	13:06:22	6a Reise in die Tiefe	10:05	8							
+JW46	weiblich	3-9	Familie	13:16:31	6b Tauchboot	00:26	9							
+JW46	weiblich	3-9	Familie	13:17:11	7d Strömungsmessung	00:03	10							
+JW46	weiblich	3-9	Familie	13:17:17	7a Schwarmverhalten	00:26	11							
+JW46	weiblich	3-9	Familie	13:17:45	7b Tauchmission	06:26	12							
+JW46	weiblich	3-9	Familie	13:24:22	6b Tauchboot	01:24	13							
+JW46	weiblich	3-9	Familie	13:25:51	7b Tauchmission	06:58	14							
+JW46	weiblich	3-9	Familie	13:32:51	7a Schwarmverhalten	00:17	15							
+JW47	weiblich	15-19	Familie	13:52:06	1 Am Strand	00:12	1							
+JW47	weiblich	15-19	Familie	13:52:49	2a Plankton	00:49	2							
+JW57	männlich	ab 61 	allein	12:12:18	5b Unterseelandschaften	01:54	15	01:18						
+JW58	weiblich	15-19	Familie	14:34:33	5b Unterseelandschaften	01:35	19	01:25						
+JW47	weiblich	15-19	Familie	14:00:15	4d Datenrekorder	00:20	5							
+JW58	weiblich	15-19	Familie	14:38:45	5b Unterseelandschaften	00:58	21	00:51						
+JW47	weiblich	15-19	Familie	14:01:39	4c Jura-Meer Ba-Wü	00:30	7							
+JW47	weiblich	15-19	Familie	14:02:11	4d Datenrekorder	00:41	8		00:35					
+JW58	weiblich	15-19	Familie	14:49:11	5b Unterseelandschaften	00:14	24	00:08						
+JW47	weiblich	15-19	Familie	14:04:21	5d Probenahme-Roboter	00:52	10		00:36					
+JW47	weiblich	15-19	Familie	14:05:18	5c Landschaftsgestaltung	04:46	11							
+JW59	männlich	20-30	Familie	11:00:01	5b Unterseelandschaften	02:15	9	02:00						
+JW47	weiblich	15-19	Familie	14:12:13	5c Landschaftsgestaltung	02:58	13							
+JW47	weiblich	15-19	Familie	14:15:18	6b Tauchboot	00:13	14							
+JW47	weiblich	15-19	Familie	14:16:44	6a Reise in die Tiefe	04:57	15							
+JW48	weiblich	3-9	Familie	10:58:07	1 Am Strand	00:06	1							
+JW48	weiblich	3-9	Familie	10:58:29	2x Rippenquallen	00:07	2							
+JW59	männlich	20-30	Familie	11:25:44	5b Unterseelandschaften	02:41	27	01:40						
+JW48	weiblich	3-9	Familie	10:59:12	2c Larven und erw. Tiere	00:05	4							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:41:28	5c Landschaftsgestaltung	00:23	16	00:09						
+JW48	weiblich	3-9	Familie	11:01:33	3c Spezialkamera	00:57	6							
+JW48	weiblich	3-9	Familie	11:02:35	4b In Lebensgröße	00:14	7							
+JW49	weiblich	ab 61 	Familie	13:16:17	5c Landschaftsgestaltung	00:55	17	00:21						
+JW05	weiblich	31-60	Familie	13:35:10	5d Probenahme-Roboter	01:38	22	00:24	00:33					
+JW48	weiblich	3-9	Familie	11:06:04	6b Tauchboot	00:13	10							
+JW48	weiblich	3-9	Familie	11:06:33	7a Schwarmverhalten	00:21	11							
+JW48	weiblich	3-9	Familie	11:07:09	7b Tauchmission	04:32	12							
+JW49	weiblich	ab 61 	Familie	12:41:41	1 Am Strand	00:10	1							
+JW49	weiblich	ab 61 	Familie	12:41:59	2x Rippenquallen	00:05	2							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:36:01	5d Probenahme-Roboter	01:29	10	00:40	00:15					
+JW49	weiblich	ab 61 	Familie	12:42:53	4b In Lebensgröße	03:21	4							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:55:35	5d Probenahme-Roboter	00:02	37	00:10	00:37					
+JW49	weiblich	ab 61 	Familie	12:51:42	2b Sonartechnik	01:48	6							
+JW49	weiblich	ab 61 	Familie	12:53:31	2c Larven und erw. Tiere	00:19	7							
+JW13	weiblich	31-60	Familie	12:23:14	5d Probenahme-Roboter	01:57	19	00:33	01:09					
+JW17	männlich	3-9	Familie	11:50:32	5d Probenahme-Roboter	00:51	4	00:15						
+JW21	weiblich	ab 61 	Familie	11:23:11	5d Probenahme-Roboter	01:19	17	00:41						
+JW25	männlich	ab 61 	allein	09:59:43	5d Probenahme-Roboter	01:42	9	00:46	00:15					
+JW27	männlich	31-60	Familie	12:02:28	5d Probenahme-Roboter	02:54	21	00:56	01:36					
+JW32	männlich	ab 61 	Familie	13:38:44	5d Probenahme-Roboter	00:59	12	00:43						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:41:56	5d Probenahme-Roboter	01:14	17	01:04						
+JW49	weiblich	ab 61 	Familie	13:14:05	5c Landschaftsgestaltung	01:23	15							
+JW41	männlich	15-19	Familie	11:27:44	5d Probenahme-Roboter	00:37	24	00:27						
+JW54	weiblich	20-30	Schulklasse 	11:03:14	5d Probenahme-Roboter	00:44	10	00:06	00:05					
+JW49	weiblich	ab 61 	Familie	13:17:38	6b Tauchboot	00:28	18							
+JW49	weiblich	ab 61 	Familie	13:19:06	7b Tauchmission	06:29	19							
+JW49	weiblich	ab 61 	Familie	13:25:39	7a Schwarmverhalten	00:17	20							
+JW57	männlich	ab 61 	allein	12:15:34	5d Probenahme-Roboter	02:20	17	00:51	01:15					
+JW49	weiblich	ab 61 	Familie	13:27:00	6b Tauchboot	00:23	22							
+JW49	weiblich	ab 61 	Familie	13:30:13	6a Reise in die Tiefe	01:00	23							
+JW49	weiblich	ab 61 	Familie	13:33:19	7b Tauchmission	04:42	24							
+JW58	weiblich	15-19	Familie	14:39:47	5d Probenahme-Roboter	03:14	22	01:01	01:58					
+JW50	männlich	15-19	Familie	15:17:00	2c Larven und erw. Tiere	00:13	2							
+JW50	männlich	15-19	Familie	15:17:19	2a Plankton	00:35	3							
+JW50	männlich	15-19	Familie	15:17:57	2c Larven und erw. Tiere	00:34	4							
+JW50	männlich	15-19	Familie	15:18:40	2d Plankton Mikroskop	00:08	5							
+JW50	männlich	15-19	Familie	15:18:56	3a Bioflu. Meerestiere	00:17	6		00:07					
+JW05	weiblich	31-60	Familie	13:34:06	5e Topographie der Meere	00:58	21	00:46						
+JW50	männlich	15-19	Familie	15:21:50	3c Spezialkamera	00:08	8							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:37:32	5e Topographie der Meere	01:27	11	01:16						
+JW50	männlich	15-19	Familie	15:22:49	3c Spezialkamera	01:01	10							
+JW50	männlich	15-19	Familie	15:23:55	4b In Lebensgröße	01:26	11							
+JW50	männlich	15-19	Familie	15:25:29	4c Jura-Meer Ba-Wü	00:52	12							
+JW50	männlich	15-19	Familie	15:26:36	5b Unterseelandschaften	01:10	13							
+JW50	männlich	15-19	Familie	15:27:47	5c Landschaftsgestaltung	01:18	14							
+JW50	männlich	15-19	Familie	15:29:10	5a Globales Förderband	00:09	15							
+JW50	männlich	15-19	Familie	15:29:25	5c Landschaftsgestaltung	00:49	16							
+JW50	männlich	15-19	Familie	15:30:17	5b Unterseelandschaften	00:07	17							
+JW50	männlich	15-19	Familie	15:30:33	5a Globales Förderband	00:17	18							
+JW50	männlich	15-19	Familie	15:31:04	6a Reise in die Tiefe	07:52	19							
+JW50	männlich	15-19	Familie	15:39:06	6b Tauchboot	00:15	20							
+JW50	männlich	15-19	Familie	15:39:41	7b Tauchmission	03:24	21							
+JW50	männlich	15-19	Familie	15:43:08	7a Schwarmverhalten	00:54	22							
+JW50	männlich	15-19	Familie	15:44:04	7d Strömungsmessung	00:24	23							
+JW50	männlich	15-19	Familie	15:44:31	7a Schwarmverhalten	00:33	24							
+JW51	weiblich	20-30	Familie	10:43:36	1 Am Strand	00:08	1							
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	11:56:34	5e Topographie der Meere	00:32	38	00:22						
+JW51	weiblich	20-30	Familie	10:46:31	2c Larven und erw. Tiere	01:00	3							
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:39:20	5e Topographie der Meere	00:55	12	00:38						
+JW51	weiblich	20-30	Familie	10:49:22	4b In Lebensgröße	02:44	5							
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:44:43	5e Topographie der Meere	01:06	13	00:48						
+JW11	weiblich	ab 61 	Familie	13:49:23	5e Topographie der Meere	00:34	19	00:29						
+JW14	männlich	31-60	Familie	13:30:05	5e Topographie der Meere	00:56	15	00:47						
+JW51	weiblich	20-30	Familie	11:03:18	5c Landschaftsgestaltung	00:50	9							
+JW51	weiblich	20-30	Familie	11:04:12	5d Probenahme-Roboter	01:32	10		00:48					
+JW18	weiblich	31-60	mit Partner:in / Freund:i	12:57:24	5e Topographie der Meere	00:45	17	00:31						
+JW51	weiblich	20-30	Familie	11:07:26	6b Tauchboot	00:29	12							
+JW21	weiblich	ab 61 	Familie	11:24:54	5e Topographie der Meere	00:28	19	00:24						
+JW51	weiblich	20-30	Familie	11:08:39	7a Schwarmverhalten	01:04	14							
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:19:01	5e Topographie der Meere	00:10	13	00:05						
+JW23	männlich	31-60	Familie	14:52:52	5e Topographie der Meere	00:43	14	00:40						
+JW51	weiblich	20-30	Familie	11:11:38	7a Schwarmverhalten	00:17	17							
+JW51	weiblich	20-30	Familie	11:11:58	7b Tauchmission	03:49	18							
+JW51	weiblich	20-30	Familie	11:15:52	7a Schwarmverhalten	00:05	19							
+JW52	weiblich	15-19	Gruppe	12:12:15	1 Am Strand	00:41	1							
+JW52	weiblich	15-19	Gruppe	12:13:02	2d Plankton Mikroskop	00:11	2							
+JW52	weiblich	15-19	Gruppe	12:13:15	2a Plankton	00:03	3							
+JW52	weiblich	15-19	Gruppe	12:13:33	4b In Lebensgröße	00:32	4							
+JW52	weiblich	15-19	Gruppe	12:14:08	4c Jura-Meer Ba-Wü	00:09	5							
+JW52	weiblich	15-19	Gruppe	12:14:19	4d Datenrekorder	00:18	6							
+JW52	weiblich	15-19	Gruppe	12:14:54	5b Unterseelandschaften	00:18	7							
+JW52	weiblich	15-19	Gruppe	12:15:14	5c Landschaftsgestaltung	01:32	8							
+JW52	weiblich	15-19	Gruppe	12:17:18	3b Bioflu. im Ozean	00:45	9		00:36					
+JW52	weiblich	15-19	Gruppe	12:18:08	4a Heute und früher	00:39	10							
+JW52	weiblich	15-19	Gruppe	12:18:53	3c Spezialkamera	01:13	11							
+JW52	weiblich	15-19	Gruppe	12:20:14	4d Datenrekorder	00:04	12							
+JW52	weiblich	15-19	Gruppe	12:20:22	4c Jura-Meer Ba-Wü	00:19	13							
+JW52	weiblich	15-19	Gruppe	12:20:48	5b Unterseelandschaften	01:18	14							
+JW52	weiblich	15-19	Gruppe	12:22:11	5c Landschaftsgestaltung	00:42	15							
+JW52	weiblich	15-19	Gruppe	12:22:56	5b Unterseelandschaften	00:53	1							
+JW52	weiblich	15-19	Gruppe	12:23:56	6a Reise in die Tiefe	03:15	17							
+JW52	weiblich	15-19	Gruppe	12:27:23	6b Tauchboot	00:20	18							
+JW24 	männlich	31-60	Familie	15:21:32	5e Topographie der Meere	00:19	17	00:12						
+JW52	weiblich	15-19	Gruppe	12:28:50	7a Schwarmverhalten	00:24	20							
+JW25	männlich	ab 61 	allein	10:01:27	5e Topographie der Meere	00:23	10	00:14						
+JW52	weiblich	15-19	Gruppe	12:29:46	7a Schwarmverhalten	01:03	22							
+JW52	weiblich	15-19	Gruppe	12:30:53	7b Tauchmission	06:44	23							
+JW27	männlich	31-60	Familie	11:57:21	5e Topographie der Meere	01:16	17	00:42						
+JW53	männlich	15-19	Familie	14:54:17	1 Am Strand	00:06	1							
+JW53	männlich	15-19	Familie	14:54:27	2x Rippenquallen	00:03	2							
+JW53	männlich	15-19	Familie	14:54:55	2b Sonartechnik	00:20	3							
+JW53	männlich	15-19	Familie	14:55:29	2y Plankton 101	00:05	4							
+JW53	männlich	15-19	Familie	14:55:36	2b Sonartechnik	02:07	5							
+JW53	männlich	15-19	Familie	14:57:48	2y Plankton 101	00:05	6							
+JW53	männlich	15-19	Familie	14:57:56	2c Larven und erw. Tiere	00:09	7							
+JW53	männlich	15-19	Familie	14:58:20	2a Plankton	00:06	8							
+JW53	männlich	15-19	Familie	14:58:28	2c Larven und erw. Tiere	00:37	9							
+JW27	männlich	31-60	Familie	12:01:52	5e Topographie der Meere	00:33	20	00:27						
+JW53	männlich	15-19	Familie	15:00:25	2d Plankton Mikroskop	00:08	11							
+JW53	männlich	15-19	Familie	15:00:49	3b Bioflu. im Ozean	02:03	12		00:16					
+JW27	männlich	31-60	Familie	12:05:24	5e Topographie der Meere	00:56	22	00:50						
+JW53	männlich	15-19	Familie	15:04:41	3c Spezialkamera	04:26	14		03:00					
+JW53	männlich	15-19	Familie	15:09:27	3a Bioflu. Meerestiere	00:45	15		00:36					
+JW53	männlich	15-19	Familie	15:10:25	4c Jura-Meer Ba-Wü	00:27	16							
+JW53	männlich	15-19	Familie	15:10:55	4d Datenrekorder	01:23	17		00:15					
+JW53	männlich	15-19	Familie	15:12:54	5b Unterseelandschaften	00:15	18							
+JW53	männlich	15-19	Familie	15:13:48	5c Landschaftsgestaltung	00:04	19							
+JW53	männlich	15-19	Familie	15:13:56	5b Unterseelandschaften	00:34	20							
+JW53	männlich	15-19	Familie	15:14:40	5d Probenahme-Roboter	00:54	21		00:05					
+JW53	männlich	15-19	Familie	15:15:37	5b Unterseelandschaften	00:04	22							
+JW53	männlich	15-19	Familie	15:15:43	5e Topographie der Meere	00:34	23							
+JW29	männlich	31-60	Familie	11:07:43	5e Topographie der Meere	00:15	19	00:07						
+JW32	männlich	ab 61 	Familie	13:39:46	5e Topographie der Meere	01:27	13	01:15						
+JW53	männlich	15-19	Familie	15:18:45	5c Landschaftsgestaltung	02:17	26							
+JW53	männlich	15-19	Familie	15:21:20	6b Tauchboot	00:52	27							
+JW39	weiblich	20-30	mit Partner:in / Freund:i	13:38:17	5e Topographie der Meere	00:10	9	00:06						
+JW53	männlich	15-19	Familie	15:22:57	6c Geomar	00:27	29							
+JW53	männlich	15-19	Familie	15:23:38	6a Reise in die Tiefe	00:29	30							
+JW53	männlich	15-19	Familie	15:24:33	7a Schwarmverhalten	00:26	31							
+JW41	männlich	15-19	Familie	11:24:34	5e Topographie der Meere	00:59	20	00:53						
+JW41	männlich	15-19	Familie	11:27:25	5e Topographie der Meere	00:12	23	00:08						
+JW41	männlich	15-19	Familie	11:31:11	5e Topographie der Meere	00:03	26	00:33						
+JW53	männlich	15-19	Familie	15:28:06	7a Schwarmverhalten	00:10	35							
+JW53	männlich	15-19	Familie	15:28:22	7d Strömungsmessung	00:23	36							
+JW54	weiblich	20-30	Schulklasse 	10:39:03	1 Am Strand	00:09	1							
+JW51	weiblich	20-30	Familie	11:05:48	5e Topographie der Meere	01:21	11	01:14						
+JW54	weiblich	20-30	Schulklasse 	10:40:09	2c Larven und erw. Tiere	00:10	3							
+JW54	weiblich	20-30	Schulklasse 	10:41:08	3a Bioflu. Meerestiere	00:10	4		00:04					
+JW54	weiblich	20-30	Schulklasse 	10:41:34	3b Bioflu. im Ozean	00:13	5							
+JW54	weiblich	20-30	Schulklasse 	10:42:09	4b In Lebensgröße	08:54	6							
+JW55	männlich	ab 61 	Familie	13:05:03	5e Topographie der Meere	00:44	18	00:34						
+JW57	männlich	ab 61 	allein	12:17:58	5e Topographie der Meere	01:32	18	01:20						
+JW54	weiblich	20-30	Schulklasse 	10:52:59	5c Landschaftsgestaltung	10:12	9							
+JW58	weiblich	15-19	Familie	14:36:13	5e Topographie der Meere	02:29	20	00:56						
+JW54	weiblich	20-30	Schulklasse 	11:05:46	6d Tiefseetaucherin	00:10	11							
+JW54	weiblich	20-30	Schulklasse 	11:06:02	6a Reise in die Tiefe	11:17	12							
+JW54	weiblich	20-30	Schulklasse 	11:18:02	7b Tauchmission	04:37	13							
+JW54	weiblich	20-30	Schulklasse 	11:22:42	7a Schwarmverhalten	01:01	14							
+JW59	männlich	20-30	Familie	11:02:19	5e Topographie der Meere	00:10	10	00:05						
+JW54	weiblich	20-30	Schulklasse 	11:26:29	7a Schwarmverhalten	01:24	16							
+JW55	männlich	ab 61 	Familie	12:33:09	1 Am Strand	00:26	1							
+JW05	weiblich	31-60	Familie	13:57:29	6c Geomar	00:55	29	00:45						
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:46:11	6c Geomar	00:45	17	00:16						
+JW55	männlich	ab 61 	Familie	12:37:40	2b Sonartechnik	00:30	4							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:53:54	6c Geomar	00:56	19	00:32						
+JW55	männlich	ab 61 	Familie	12:38:39	2c Larven und erw. Tiere	00:32	6							
+JW25	männlich	ab 61 	allein	10:04:36	6c Geomar	00:50	14	00:30		Ab Station 7a gesperrt  				
+JW27	männlich	31-60	Familie	12:21:12	6c Geomar	03:13	25	02:17						
+JW32	männlich	ab 61 	Familie	13:44:19	6c Geomar	00:43	17	00:34						
+JW34	weiblich	3-9	Familie	15:43:32	6c Geomar	01:30	17	00:27						
+JW55	männlich	ab 61 	Familie	12:45:10	4b In Lebensgröße	05:06	11							
+JW55	männlich	ab 61 	Familie	12:50:22	4c Jura-Meer Ba-Wü	02:45	12							
+JW41	männlich	15-19	Familie	11:36:14	6c Geomar	00:52	29	00:15						
+JW55	männlich	ab 61 	Familie	13:21:46	6c Geomar	00:57	21	00:48						
+JW58	weiblich	15-19	Familie	15:05:40	6c Geomar	02:20	29	01:25						
+JW55	männlich	ab 61 	Familie	13:01:01	5c Landschaftsgestaltung	02:51	16							
+JW55	männlich	ab 61 	Familie	13:04:24	5d Probenahme-Roboter	00:36	17							
+JW05	weiblich	31-60	Familie	13:55:16	6d Tiefseetaucherin	02:11	28	01:19						
+JW55	männlich	ab 61 	Familie	13:06:33	6a Reise in die Tiefe	09:39	19							
+JW55	männlich	ab 61 	Familie	13:16:19	6b Tauchboot	00:37	20							
+JW06	weiblich	ab 61 	mit Partner:in / Freund:i	15:43:50	6d Tiefseetaucherin	02:16	16	00:41						
+JW55	männlich	ab 61 	Familie	13:22:52	7b Tauchmission	15:27	22							
+JW55	männlich	ab 61 	Familie	13:38:33	7c Naturschutz	00:29	23							
+JW55	männlich	ab 61 	Familie	13:39:04	7d Strömungsmessung	00:29	24							
+JW08	weiblich	31-60	mit Partner:in / Freund:i	13:45:39	6d Tiefseetaucherin	00:20	16	00:13						
+JW10	weiblich	15-19	mit Partner:in / Freund:i	12:57:06	6d Tiefseetaucherin	01:20	17	00:28						
+JW11	weiblich	ab 61 	Familie	14:00:07	6d Tiefseetaucherin	00:39	23	00:35						
+JW13	weiblich	31-60	Familie	12:25:22	6d Tiefseetaucherin	02:03	20	00:49						
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:40:17	3a Bioflu. Meerestiere	00:11	4		00:06					
+JW13	weiblich	31-60	Familie	12:36:20	6d Tiefseetaucherin	02:11	22	01:17						
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:42:51	3c Spezialkamera	03:28	6		01:50					
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:46:22	4b In Lebensgröße	02:02	7							
+JW14	männlich	31-60	Familie	13:45:24	6d Tiefseetaucherin	02:53	21	00:02:01						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	13:09:44	6d Tiefseetaucherin	01:47	21	01:27						
+JW21	weiblich	ab 61 	Familie	11:34:56	6d Tiefseetaucherin	00:34	23	00:29						
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:50:22	5d Probenahme-Roboter	00:21	11							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:50:49	5c Landschaftsgestaltung	01:15	12							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:52:25	6a Reise in die Tiefe	00:36	13							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:53:07	6c Geomar	00:05	14							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:53:23	7a Schwarmverhalten	00:15	15							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:53:42	7b Tauchmission	04:49	16							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:58:50	7d Strömungsmessung	00:17	17							
+JW56	weiblich	20-30	mit Partner:in / Freund:i	10:59:08	7a Schwarmverhalten	00:20	18							
+JW57	männlich	ab 61 	allein	11:49:29	1 Am Strand	00:10	1							
+JW57	männlich	ab 61 	allein	11:49:49	2d Plankton Mikroskop	00:22	2		00:12					
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:36:31	6d Tiefseetaucherin	01:52	20	00:55						
+JW57	männlich	ab 61 	allein	11:50:21	2c Larven und erw. Tiere	00:34	4							
+JW24 	männlich	31-60	Familie	15:31:16	6d Tiefseetaucherin	00:29	20	00:16						
+JW25	männlich	ab 61 	allein	10:03:45	6d Tiefseetaucherin	00:49	13	00:12						
+JW27	männlich	31-60	Familie	12:24:26	6d Tiefseetaucherin	03:18	26	03:01						
+JW32	männlich	ab 61 	Familie	13:42:31	6d Tiefseetaucherin	01:46	16	01:16						
+JW57	männlich	ab 61 	allein	11:56:16	3b Bioflu. im Ozean	00:12	9							
+JW36	männlich	20-30	Gruppe	12:13:54	6d Tiefseetaucherin	00:27	20	00:23						
+JW57	männlich	ab 61 	allein	11:59:31	4b In Lebensgröße	03:02	11							
+JW57	männlich	ab 61 	allein	12:02:43	4c Jura-Meer Ba-Wü	00:54	12							
+JW37	weiblich	15-19	Familie	12:59:56	6d Tiefseetaucherin	01:04	18	00:30						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	12:54:36	6d Tiefseetaucherin	05:17	19	04:39						
+JW40	männlich	20-30	Familie	13:54:16	6d Tiefseetaucherin	00:12	8	00:08						
+JW57	männlich	ab 61 	allein	12:14:15	5c Landschaftsgestaltung	01:15	16							
+JW41	männlich	15-19	Familie	11:32:54	6d Tiefseetaucherin	02:46	28	01:38						
+JW44	männlich	3-9	Familie	10:00:30	6d Tiefseetaucherin	00:32	14	00:27						
+JW57	männlich	ab 61 	allein	12:19:41	6a Reise in die Tiefe	07:46	19							
+JW51	weiblich	20-30	Familie	11:07:59	6d Tiefseetaucherin	00:15	13	00:08						
+JW57	männlich	ab 61 	allein	12:30:35	7a Schwarmverhalten	00:06	21							
+JW52	weiblich	15-19	Gruppe	12:27:45	6d Tiefseetaucherin	00:55	19	00:27						
+JW57	männlich	ab 61 	allein	12:31:35	7d Strömungsmessung	00:31	23							
+JW57	männlich	ab 61 	allein	12:32:17	7b Tauchmission	05:11	24							
+JW53	männlich	15-19	Familie	15:22:19	6d Tiefseetaucherin	00:32	28	00:27						
+JW57	männlich	ab 61 	allein	12:27:32	6d Tiefseetaucherin	02:57	20	02:43						
+JW58	weiblich	15-19	Familie	14:59:20	6d Tiefseetaucherin	00:13	26	00:07						
+JW58	weiblich	15-19	Familie	14:03:49	2c Larven und erw. Tiere	00:05	4							
+JW58	weiblich	15-19	Familie	14:03:56	2a Plankton	00:19	5							
+JW58	weiblich	15-19	Familie	14:04:17	2c Larven und erw. Tiere	00:07	6							
+JW58	weiblich	15-19	Familie	15:01:06	6d Tiefseetaucherin	04:29	28	03:32						
+JW58	weiblich	15-19	Familie	14:05:28	2d Plankton Mikroskop	00:06	8							
+JW58	weiblich	15-19	Familie	14:06:19	3a Bioflu. Meerestiere	03:02	9		02:34					
+JW59	männlich	20-30	Familie	11:12:34	6d Tiefseetaucherin	01:46	19	01:00						
+JW05	weiblich	31-60	Familie	14:08:34	7c Naturschutz	00:34	32	00:26						
+JW07	weiblich	ab 61 	mit Partner:in / Freund:i	12:03:28	7c Naturschutz	02:20	41	00:31	00:28					
+JW11	weiblich	ab 61 	Familie	14:02:31	7c Naturschutz	00:39	25	00:31						
+JW18	weiblich	31-60	mit Partner:in / Freund:i	13:12:11	7c Naturschutz	02:12	23	00:34	00:34					
+JW27	männlich	31-60	Familie	12:31:03	7c Naturschutz	02:11	29	02:02						
+JW32	männlich	ab 61 	Familie	13:50:35	7c Naturschutz	01:25	21	01:18						
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	13:02:37	7c Naturschutz	01:15	21	01:09						
+JW41	männlich	15-19	Familie	11:38:14	7c Naturschutz	01:40	31	01:33						
+JW53	männlich	15-19	Familie	15:25:12	7c Naturschutz	00:41	32	00:31						
+JW57	männlich	ab 61 	allein	12:30:47	7c Naturschutz	00:46	22	00:19						
+JW58	weiblich	15-19	Familie	15:12:01	7c Naturschutz	06:29	33	02:37	03:36					
+JW59	männlich	20-30	Familie	11:40:16	7c Naturschutz	01:27	31	01:03	00:15					
+JW58	weiblich	15-19	Familie	14:43:06	5c Landschaftsgestaltung	06:02	23							
+JW59	männlich	20-30	Familie	11:48:18	7c Naturschutz	01:08	34	00:16	00:12					
+JW58	weiblich	15-19	Familie	14:49:39	6a Reise in die Tiefe	09:30	25							
+JW27	männlich	31-60	Familie	12:29:55	7d Strömungsmessung	01:06	28	00:32						
+JW58	weiblich	15-19	Familie	14:59:37	6b Tauchboot	01:27	27							
+JW32	männlich	ab 61 	Familie	13:54:11	7d Strömungsmessung	00:35	23	00:21						
+JW37	weiblich	15-19	Familie	13:06:38	7d Strömungsmessung	01:02	22	00:51						
+JW58	weiblich	15-19	Familie	15:08:17	7a Schwarmverhalten	00:11	30							
+JW58	weiblich	15-19	Familie	15:08:31	7b Tauchmission	03:03	31							
+JW58	weiblich	15-19	Familie	15:11:40	7a Schwarmverhalten	00:15	32							
+JW38	männlich	ab 61 	mit Partner:in / Freund:i	13:00:57	7d Strömungsmessung	01:38	20	01:35						
+JW49	weiblich	ab 61 	Familie	13:25:59	7d Strömungsmessung	00:35	21	00:28						
+JW51	weiblich	20-30	Familie	11:09:46	7d Strömungsmessung	01:04	15	00:12						
+JW59	männlich	20-30	Familie	10:50:08	1 Am Strand	00:12	1							
+JW52	weiblich	15-19	Gruppe	12:29:17	7d Strömungsmessung	00:25	21	00:14						
+JW59	männlich	20-30	Familie	10:52:03	2b Sonartechnik	02:01	3							
+JW53	männlich	15-19	Familie	15:25:56	7d Strömungsmessung	00:33	33	00:09						
+JW54	weiblich	20-30	Schulklasse 	11:23:48	7d Strömungsmessung	02:37	15	00:28						
+JW59	männlich	20-30	Familie	10:55:39	3c Spezialkamera	02:40	6		00:34					
+JW59	männlich	20-30	Familie	10:58:54	3a Bioflu. Meerestiere	00:05	7							
+JW59	männlich	20-30	Familie	10:59:03	3b Bioflu. im Ozean	00:31	8							
+JW58	weiblich	15-19	Familie	15:18:33	7d Strömungsmessung	01:29	34	01:16						
+JW59	männlich	20-30	Familie	11:38:56	7d Strömungsmessung	01:16	30	00:45						
+JW59	männlich	20-30	Familie	11:02:55	4b In Lebensgröße	01:04	11							
+JW59	männlich	20-30	Familie	11:04:09	3c Spezialkamera	02:02	12		01:15					
+JW05	weiblich	31-60	Familie	14:09:19	8 Neue Ansätze	00:21	34	00:06						
+JW59	männlich	20-30	Familie	11:08:53	4c Jura-Meer Ba-Wü	00:05	14							
+JW11	weiblich	ab 61 	Familie	14:03:12	8 Neue Ansätze	00:33	26	00:25						
+JW59	männlich	20-30	Familie	11:09:45	5c Landschaftsgestaltung	02:22	16							
+JW59	männlich	20-30	Familie	11:12:11	5d Probenahme-Roboter	00:10	17							
+JW59	männlich	20-30	Familie	11:12:29	6b Tauchboot	00:04	18							
+JW18	weiblich	31-60	mit Partner:in / Freund:i	13:15:04	8 Neue Ansätze	00:51	25	00:16						
+JW59	männlich	20-30	Familie	11:14:24	6b Tauchboot	00:33	20							
+JW59	männlich	20-30	Familie	11:15:13	7b Tauchmission	04:40	21							
+JW59	männlich	20-30	Familie	11:20:31	6b Tauchboot	00:15	22							
+JW59	männlich	20-30	Familie	11:21:03	5b Unterseelandschaften	00:15	23							
+JW59	männlich	20-30	Familie	11:21:27	5c Landschaftsgestaltung	02:46	24							
+JW59	männlich	20-30	Familie	11:24:13	6c Geomar	00:04	25							
+JW21	weiblich	ab 61 	Familie	11:36:27	8 Neue Ansätze	00:23	24	00:17						
+JW22	weiblich	31-60	mit Partner:in / Freund:i	12:42:52	8 Neue Ansätze	00:29	22	00:20						
+JW59	männlich	20-30	Familie	11:29:00	6a Reise in die Tiefe	09:30	28							
+JW59	männlich	20-30	Familie	11:38:41	7a Schwarmverhalten	00:12	29							
+JW27	männlich	31-60	Familie	12:27:47	8 Neue Ansätze	01:31	27	01:27						
+JW32	männlich	ab 61 	Familie	13:52:54	8 Neue Ansätze	01:13	22	01:05						
+JW59	männlich	20-30	Familie	11:41:46	7a Schwarmverhalten	00:12	32							
+JW59	männlich	20-30	Familie	11:45:04	7b Tauchmission	03:03	33							
+JW41	männlich	15-19	Familie	11:40:49	8 Neue Ansätze	00:39	33	00:31						
+JW59	männlich	20-30	Familie	11:49:29	7d Strömungsmessung	00:08	35							
+JW60	männlich	20-30	Gruppe	10:20:24	1 Am Strand	00:10	1							
+JW60	männlich	20-30	Gruppe	10:22:20	2a Plankton	00:09	2							
+JW60	männlich	20-30	Gruppe	10:26:09	2c Larven und erw. Tiere	00:35	3							
+JW60	männlich	20-30	Gruppe	10:26:46	2a Plankton	00:05	4							
+JW60	männlich	20-30	Gruppe	10:27:30	3a Bioflu. Meerestiere	00:03	5							
+JW51	weiblich	20-30	Familie	11:10:52	8 Neue Ansätze	00:44	16	00:43						
+JW52	weiblich	15-19	Gruppe	12:38:13	8 Neue Ansätze	00:54	24	00:48						
+JW60	männlich	20-30	Gruppe	10:33:13	3c Spezialkamera	01:23	8							
+JW60	männlich	20-30	Gruppe	10:34:51	4b In Lebensgröße	00:29	9							
+JW53	männlich	15-19	Familie	15:26:34	8 Neue Ansätze	01:18	34	00:42						
+JW55	männlich	ab 61 	Familie	13:39:35	8 Neue Ansätze	00:48	25	00:36						
+JW60	männlich	20-30	Gruppe	10:38:08	5b Unterseelandschaften	00:05	12							
+JW58	weiblich	15-19	Familie	15:20:12	8 Neue Ansätze	03:53	35	03:43						
+JW60	männlich	20-30	Gruppe	10:38:36	5b Unterseelandschaften	00:13	14							
+JW60	männlich	20-30	Gruppe	10:39:23	5d Probenahme-Roboter	00:16	15							
+JW60	männlich	20-30	Gruppe	10:42:24	5c Landschaftsgestaltung	00:31	16							
+JW60	männlich	20-30	Gruppe	10:43:33	6b Tauchboot	00:03	17							
+JW60	männlich	20-30	Gruppe	10:43:50	7a Schwarmverhalten	00:05	18							
+JW60	männlich	20-30	Gruppe	10:44:06	7b Tauchmission	03:36	19							
